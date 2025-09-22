@@ -5912,7 +5912,7 @@ blockquote {
   object-fit: cover;
   width: 100%;
   min-height: 275px;
-  max-height: 275px;
+  max-height: 340px;
 }
 
 .podcast-data {
@@ -5947,7 +5947,7 @@ blockquote {
   grid-row-gap: 20px;
   flex-flow: column;
   grid-template-rows: auto;
-  grid-template-columns: 1fr 1fr;
+  /* grid-template-columns: 1fr 1fr; */
   grid-auto-columns: 1fr;
   display: grid;
 }
@@ -8455,4 +8455,103 @@ blockquote {
   .about-img:hover::after {
     opacity: 1;
   }
+}
+/* === Podcast listing page (matches OG) === */
+.podcast .podcast-grid,
+.podcast .podcast-grid .w-dyn-list,
+.podcast .podcast-grid .podcast-list {
+  width: 100%;
+  max-width: none;
+}
+
+.podcast .podcast-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+
+@media (min-width: 992px) {
+  .podcast .podcast-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+  }
+}
+
+/* Card */
+.podcast .podcast-link {
+  position: relative;
+  display: block;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.25s ease;
+}
+.podcast .podcast-image {
+  display: block;
+  width: 100%;
+  height: 420px; /* OG visual height */
+  object-fit: cover;
+  transform-origin: 50% 50%;
+  transition: transform 0.35s ease;
+}
+
+/* Bottom gradient overlay + text block */
+.podcast .podcast-link::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 55%,
+    rgba(0, 0, 0, 0.55) 100%
+  );
+  pointer-events: none;
+}
+.podcast .podcast-data {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 18px 20px 20px;
+  color: #fff;
+}
+.podcast .podcast-author {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.9;
+  margin-bottom: 8px;
+}
+.podcast .podcast-title {
+  color: #fff;
+  margin: 0;
+  line-height: 1.3;
+}
+
+/* Hover micro-interactions */
+@media (hover: hover) {
+  .podcast .podcast-link:hover {
+    transform: translateY(-2px);
+  }
+  .podcast .podcast-link:hover .podcast-image {
+    transform: scale(1.03);
+  }
+}
+/* Podcast listing page — make grid full-width and neutralize homepage clamp */
+.podcast-page .podcasts {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Ensure the grid itself stretches fully on the listing page */
+.podcast-page .podcast-grid,
+.podcast-page .podcast-list {
+  width: 100%;
+  max-width: none;
+}
+
+/* (Optional) image height parity with OG */
+.podcast-page .podcast-image {
+  height: 420px;
+  object-fit: cover;
 }
