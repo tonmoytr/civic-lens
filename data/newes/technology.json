@@ -1,0 +1,42 @@
+{
+  "slug": "technology",
+  "title": "Technology",
+  "tagline": "Stay updated with the latest news, stories, and insights from around the globe.",
+  "posts": [
+    {
+      "slug": "smart-homes-revolution",
+      "title": "Smart homes revolution: how IoT is transforming living spaces",
+      "date": "2025-02-10",
+      "category": "Technology",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "future-focused-tech-trends",
+      "title": "Future-focused: an in-depth look at cutting-edge tech trends",
+      "date": "2025-01-25",
+      "category": "Technology",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "future-of-5g",
+      "title": "The future of 5G: connecting a world at lightning speed",
+      "date": "2025-01-25",
+      "category": "Technology",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "cybersecurity-at-risk",
+      "title": "Cybersecurity at risk: the growing threat of digital breaches",
+      "date": "2025-01-25",
+      "category": "Technology",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "immersive-tech",
+      "title": "Transforming entertainment, education & beyond",
+      "date": "2025-01-25",
+      "category": "Technology",
+      "image": "/assets/images/news/news.jpg"
+    }
+  ]
+}

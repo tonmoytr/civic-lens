@@ -1,0 +1,35 @@
+{
+  "slug": "world-news",
+  "title": "World News",
+  "tagline": "Stay updated with the latest news, stories, and insights from around the globe.",
+  "posts": [
+    {
+      "slug": "smart-cities-tech",
+      "title": "Smart cities: integrating technology for better living",
+      "date": "2025-01-25",
+      "category": "World News",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "global-financial-landscape",
+      "title": "The global financial landscape and its implications for all",
+      "date": "2025-01-25",
+      "category": "World News",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "global-strategies-stability",
+      "title": "Unveiling global strategies for financial stability",
+      "date": "2025-01-25",
+      "category": "World News",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "manufacturing-trends",
+      "title": "Revolutionizing manufacturing: emerging trends shaping the industry",
+      "date": "2025-01-25",
+      "category": "World News",
+      "image": "/assets/images/news/news.jpg"
+    }
+  ]
+}

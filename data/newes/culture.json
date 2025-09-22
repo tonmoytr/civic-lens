@@ -1,0 +1,42 @@
+{
+  "slug": "culture",
+  "title": "Culture",
+  "tagline": "Stay updated with the latest news, stories, and insights from around the globe.",
+  "posts": [
+    {
+      "slug": "power-of-art",
+      "title": "The power of art in connecting and expressing cultural",
+      "date": "2025-01-27",
+      "category": "Culture",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "redefining-heritage",
+      "title": "How generations are redefining heritage & cultural norms",
+      "date": "2025-01-25",
+      "category": "Culture",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "globalization-impact",
+      "title": "The impact of globalization on local cultures & traditions",
+      "date": "2025-01-25",
+      "category": "Culture",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "tailored-treatments-genetic",
+      "title": "Tailoring treatments to individual genetic profiles",
+      "date": "2025-01-25",
+      "category": "Culture",
+      "image": "/assets/images/news/news.jpg"
+    },
+    {
+      "slug": "combat-environmental-challenges",
+      "title": "Global efforts to combat environmental challenges",
+      "date": "2025-01-25",
+      "category": "Culture",
+      "image": "/assets/images/news/news.jpg"
+    }
+  ]
+}
