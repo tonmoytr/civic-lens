@@ -14,7 +14,7 @@ export default function Hero() {
                     >
                       <div className="hero-img">
                         <img
-                          src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947fd599275dc9372ef55f_news-main-13.jpg"
+                          src="/assets/images/podcasts/3.webp"
                           loading="eager"
                           alt="News Image"
                           className="hero-image"
@@ -22,8 +22,8 @@ export default function Hero() {
                       </div>
                       <div className="hero-data">
                         <h1 className="hero-title">
-                          Revolutionizing manufacturing emerging trends shaping
-                          the industry
+                          Tamara Keith and Amy Walter on the future of the MAGA
+                          movement
                         </h1>
                         <div className="news-date">
                           <div
@@ -65,13 +65,14 @@ export default function Hero() {
                             loading="lazy"
                             alt="Category Icon"
                           />
-                          <div>Business</div>
+                          <div>Politics</div>
                         </div>
                         <div className="divider"></div>
                         <div>Feb 10, 2025</div>
                       </div>
                       <h6 className="headline-title">
-                        Adapting business strategies to meet changing demands
+                        Trump’s Idea of the Criminal Left Is a Fiction. A
+                        Coordinated Defense Against His Fascism Shouldn’t Be.
                       </h6>
                     </a>
                   </div>
@@ -97,8 +98,8 @@ export default function Hero() {
                         <div>Feb 10, 2025</div>
                       </div>
                       <h6 className="headline-title">
-                        Smart homes revolution how iot is transforming living
-                        spaces
+                        Google Secretly Handed ICE Data About Pro-Palestine
+                        Student Activist
                       </h6>
                     </a>
                   </div>
@@ -124,7 +125,8 @@ export default function Hero() {
                         <div>Jan 27, 2025</div>
                       </div>
                       <h6 className="headline-title">
-                        The power of art in connecting and expressing cultural
+                        How one man is protecting Maryland’s longest river—and
+                        inspiring a new generation
                       </h6>
                     </a>
                   </div>
@@ -144,13 +146,14 @@ export default function Hero() {
                             loading="lazy"
                             alt="Category Icon"
                           />
-                          <div>Business News</div>
+                          <div>Politics</div>
                         </div>
                         <div className="divider"></div>
                         <div>Jan 27, 2025</div>
                       </div>
                       <h6 className="headline-title">
-                        Impact of economic policies on business growth
+                        Trump Wants to Label Antifa a Terror Group. His Real
+                        Target Might Be a Lot Bigger.
                       </h6>
                     </a>
                   </div>
@@ -176,8 +179,8 @@ export default function Hero() {
                         <div>Jan 27, 2025</div>
                       </div>
                       <h6 className="headline-title">
-                        The influence of youth sports programs on developing
-                        future champions
+                        Soccer's Most Expensive Transfers: Isak Joins Neymar,
+                        Mbappé in Top 5
                       </h6>
                     </a>
                   </div>
@@ -196,14 +199,14 @@ export default function Hero() {
                   className="category-link w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67970af04a7253bbcb1d6a71_category-thumb-06.jpg"
+                    src="/assets/images/politics/trump.webp"
                     loading="lazy"
                     alt="Category Image"
                     sizes="(max-width: 767px) 44vw, (max-width: 991px) 30vw, 18vw"
                     className="hero-category-image"
                   />
                   <div className="category-name">
-                    <div className="hero-category-name">Business</div>
+                    <div className="hero-category-name">Politics</div>
                     <img
                       src="https://cdn.prod.website-files.com/67372e014977be3ffcac2486/679723e67cb4d6ccd3aeeb7e_ic-arrow-white.svg"
                       loading="lazy"
@@ -222,7 +225,7 @@ export default function Hero() {
                   className="category-link w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67970af70fb0795053cc4296_category-thumb-05.jpg"
+                    src="/assets/images/tech/techh.jpg"
                     loading="lazy"
                     alt="Category Image"
                     sizes="(max-width: 767px) 44vw, (max-width: 991px) 30vw, 18vw"
@@ -248,7 +251,7 @@ export default function Hero() {
                   className="category-link w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67970afccf5531d40f479ea0_category-thumb-04.jpg"
+                    src="assets/images/politics/poli.jpg"
                     loading="lazy"
                     alt="Category Image"
                     sizes="(max-width: 767px) 44vw, (max-width: 991px) 30vw, 18vw"
@@ -274,7 +277,7 @@ export default function Hero() {
                   className="category-link w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67970b0a2bf33e1c1f2f3510_category-thumb-03.jpg"
+                    src="/assets/images/sports/ney.webp"
                     loading="lazy"
                     alt="Category Image"
                     sizes="(max-width: 767px) 44vw, (max-width: 991px) 30vw, 18vw"
@@ -300,7 +303,7 @@ export default function Hero() {
                   className="category-link w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67970b11d80b838cdf7c01ae_category-thumb-02.jpg"
+                    src="/assets/images/culture/1.jpg"
                     loading="lazy"
                     alt="Category Image"
                     sizes="(max-width: 767px) 44vw, (max-width: 991px) 30vw, 18vw"

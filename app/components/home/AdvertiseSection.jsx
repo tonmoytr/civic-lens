@@ -8,7 +8,7 @@ export default function AdvertiseSection() {
             className="advertise-image"
             loading="lazy"
             sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1336px) 97vw, 1296px"
-            src="https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67946f3e97cb8903dc4ae01b_24b1b64e49942f6fd370f186e3fd68ba_advertise.jpg"
+            src="/assets/images/home/ads.jpg"
           />
 
           <div className="advertise-data">

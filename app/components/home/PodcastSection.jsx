@@ -31,11 +31,10 @@ export default function PodcastSection() {
                   className="fp-link w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679750a9e2f6c58a9aeb2033_podcast-thumb-01.jpg"
+                    src="/assets/images/podcasts/5.jpg"
                     loading="lazy"
                     alt="Podcast Image"
                     sizes="(max-width: 479px) 92vw, (max-width: 991px) 95vw, 57vw"
-                    srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679750a9e2f6c58a9aeb2033_podcast-thumb-01-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679750a9e2f6c58a9aeb2033_podcast-thumb-01-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679750a9e2f6c58a9aeb2033_podcast-thumb-01.jpg 824w"
                     className="fp-image"
                   />
                   <div className="fp-data">
@@ -65,11 +64,10 @@ export default function PodcastSection() {
                     className="podcast-link w-inline-block"
                   >
                     <img
-                      src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f3/679750df5b546fe28efbe036_podcast-thumb-02.jpg"
+                      src="/assets/images/podcasts/4.jpg"
                       loading="lazy"
                       alt="Podcast Image"
                       sizes="(max-width: 767px) 92vw, (max-width: 991px) 46vw, 39vw"
-                      srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679750df5b546fe28efbe036_podcast-thumb-02-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679750df5b546fe28efbe036_podcast-thumb-02-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679750df5b546fe28efbe036_podcast-thumb-02.jpg 824w"
                       className="podcast-image"
                     />
                     <div className="podcast-data">
@@ -91,11 +89,10 @@ export default function PodcastSection() {
                     className="podcast-link w-inline-block"
                   >
                     <img
-                      src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679751a2c498f5490b5978bb_podcast-thumb-06.jpg"
+                      src="/assets/images/podcasts/6.jpg"
                       loading="lazy"
                       alt="Podcast Image"
                       sizes="(max-width: 767px) 92vw, (max-width: 991px) 46vw, 39vw"
-                      srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679751a2c498f5490b5978bb_podcast-thumb-06-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679751a2c498f5490b5978bb_podcast-thumb-06-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679751a2c498f5490b5978bb_podcast-thumb-06.jpg 824w"
                       className="podcast-image"
                     />
                     <div className="podcast-data">

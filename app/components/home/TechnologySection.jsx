@@ -43,7 +43,7 @@ export default function TechnologySection() {
                         className="tn-image"
                         loading="lazy"
                         alt="News Image"
-                        src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679481dbfdb5af29738f15bf_news-thumb-23.jpg"
+                        src="/assets/images/tech/3.webp"
                       />
                     </div>
                     <div className="tn-data">
@@ -53,8 +53,8 @@ export default function TechnologySection() {
                         <div>Feb 10, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Smart homes revolution how iot is transforming living
-                        spaces
+                        Google Secretly Handed ICE Data About Pro-Palestine
+                        Student Activist
                       </h5>
                     </div>
                   </a>
@@ -71,7 +71,7 @@ export default function TechnologySection() {
                         className="tn-image"
                         loading="lazy"
                         alt="News Image"
-                        src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679482333fefb73440151487_news-thumb-26.jpg"
+                        src="/assets/images/tech/4.webp"
                       />
                     </div>
                     <div className="tn-data">
@@ -81,7 +81,8 @@ export default function TechnologySection() {
                         <div>Jan 25, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        The future of 5G connecting a world at lightning speed
+                        Proton Mail Suspended Journalist Accounts at Request of
+                        Cybersecurity Agency
                       </h5>
                     </div>
                   </a>
@@ -98,7 +99,7 @@ export default function TechnologySection() {
                         className="tn-image"
                         loading="lazy"
                         alt="News Image"
-                        src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679481f38a347375dcd6c4cf_news-thumb-24.jpg"
+                        src="/assets/images/tech/5.webp"
                       />
                     </div>
                     <div className="tn-data">
@@ -108,8 +109,8 @@ export default function TechnologySection() {
                         <div>Jan 25, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Cybersecurity at risk the growing threat of digital
-                        breaches
+                        Border Patrol Wants Advanced AI to Spy on American
+                        Cities
                       </h5>
                     </div>
                   </a>
@@ -126,7 +127,7 @@ export default function TechnologySection() {
                         className="tn-image"
                         loading="lazy"
                         alt="News Image"
-                        src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947f53ddde9f4bb0c94dcb_news-thumb-09.jpg"
+                        src="/assets/images/tech/6.webp"
                       />
                     </div>
                     <div className="tn-data">
@@ -136,7 +137,8 @@ export default function TechnologySection() {
                         <div>Jan 25, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Transforming entertainment, education &amp; beyond
+                        Grok Is the Latest in a Long Line of Chatbots to Go Full
+                        Nazi
                       </h5>
                     </div>
                   </a>
@@ -158,15 +160,14 @@ export default function TechnologySection() {
                       className="ftn-image"
                       loading="lazy"
                       alt="News Image"
-                      src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/6794837513d2f02fdb097a6a_news-thumb-30.jpg"
+                      src="/assets/images/tech/7.webp"
                     />
                     <div className="ftn-data">
                       <div className="author-tag">Kristin Watson</div>
                       <div>
                         <div className="ftn-date">Jan 25, 2025</div>
                         <h3 className="ftn-title">
-                          Future-focused an in-depth look at cutting-edge tech
-                          trends
+                          Microsoft Says It’s Censoring Employee Emails Containing the Word “Palestine”
                         </h3>
                       </div>
                     </div>

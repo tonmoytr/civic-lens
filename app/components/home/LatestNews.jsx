@@ -44,8 +44,7 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 767px) 46vw, (max-width: 991px) 47vw, 35vw"
-                        srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/6794837513d2f02fdb097a6a_news-thumb-30-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/6794837513d2f02fdb097a6a_news-thumb-30-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/6794837513d2f02fdb097a6a_news-thumb-30.jpg 824w"
-                        src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/6794837513d2f02fdb097a6a_news-thumb-30.jpg"
+                        src="/assets/images/tech/tech2.webp"
                       />
                     </div>
                     <div className="feature-news-data">
@@ -74,19 +73,18 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 767px) 46vw, (max-width: 991px) 47vw, 35vw"
-                        srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947de050cd96fa6b95d77f_news-thumb-02-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947de050cd96fa6b95d77f_news-thumb-02-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947de050cd96fa6b95d77f_news-thumb-02.jpg 824w"
-                        src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947de050cd96fa6b95d77f_news-thumb-02.jpg"
+                        src="/assets/images/politics/top.webp"
                       />
                     </div>
                     <div className="feature-news-data">
                       <div className="news-date">
-                        <div>Business</div>
+                        <div>Politics</div>
                         <div className="divider"></div>
                         <div>Jan 25, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Understanding the interconnectedness of events shaping
-                        our world today
+                        MIT Professor Cancels Israeli Military Grant After
+                        Student Pressure
                       </h5>
                     </div>
                   </a>
@@ -111,18 +109,18 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 991px) 28vw, 23vw"
-                        srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947ea82556a4d768e07efc_news-thumb-07-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947ea82556a4d768e07efc_news-thumb-07-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947ea82556a4d768e07efc_news-thumb-07.jpg 824w"
-                        src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947ea82556a4d768e07efc_news-thumb-07.jpg"
+                        src="/assets/images/politics/unnamed.webp"
                       />
                     </div>
                     <div className="blog-data">
                       <div className="news-date">
-                        <div>Business</div>
+                        <div>Politics</div>
                         <div className="divider"></div>
                         <div>Feb 10, 2025</div>
                       </div>
                       <h6 className="blog-title">
-                        Adapting business strategies to meet changing demands
+                        Unnamed Pentagon Officials Ridicule Hegseth’s Plan to
+                        Stop War Department Leaks
                       </h6>
                     </div>
                   </a>

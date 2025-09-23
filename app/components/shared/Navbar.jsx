@@ -27,7 +27,7 @@ export default function Navbar() {
                     loading="lazy"
                     style={{ width: "100px" }}
                     src="/assets/images/logo/logo-2.png"
-                    alt="Kivzo"
+                    alt="Civic Lens"
                   />
                 </Link>
               </div>
@@ -42,8 +42,8 @@ export default function Navbar() {
                           href="/news/business"
                           className="nav-link w-inline-block"
                         >
-                          <div className="link-text">Business</div>
-                          <div className="link-hover-text">Business</div>
+                          <div className="link-text">Politics</div>
+                          <div className="link-hover-text">Politics</div>
                         </Link>
                       </div>
                       <div role="listitem" className="nav-link-item w-dyn-item">

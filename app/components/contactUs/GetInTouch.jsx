@@ -17,8 +17,8 @@ export default function GetInTouch() {
                 <p className="contact-info-text">
                   Contact our investigative team for confidential inquiries.
                 </p>
-                <a href="mailto:help.kivzo@example.com" className="plain-link">
-                  help.kivzo@example.com
+                <a href="mailto:help@civiclens.org" className="plain-link">
+                  help@civiclens.org
                 </a>
               </div>
             </div>
@@ -39,10 +39,10 @@ export default function GetInTouch() {
                   Connect with our broadcast operations team for assistance.
                 </p>
                 <a
-                  href="mailto:operation.help@kivzo.com"
+                  href="mailto:help@civiclens.org"
                   className="plain-link"
                 >
-                  operation.help@kivzo.com
+                  help@civiclens.org
                 </a>
               </div>
             </div>
@@ -62,8 +62,8 @@ export default function GetInTouch() {
                 <p className="contact-info-text">
                   Reach out to our media contact team for inquiries.
                 </p>
-                <a href="mailto:opration.help@kivzo.com" className="plain-link">
-                  opration.help@kivzo.com
+                <a href="mailto:help@civiclens.org" className="plain-link">
+                  help@civiclens.org
                 </a>
               </div>
             </div>
@@ -84,8 +84,8 @@ export default function GetInTouch() {
                   Contact our advertising sales team for partnership
                   opportunities.
                 </p>
-                <a href="mailto:advertise@kivzo.com" className="plain-link">
-                  advertise@kivzo.com
+                <a href="mailto:ads@civiclens.org" className="plain-link">
+                  ads@civiclens.org
                 </a>
               </div>
             </div>

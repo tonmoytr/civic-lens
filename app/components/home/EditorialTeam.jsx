@@ -39,8 +39,7 @@ export default function EditorialTeam() {
                     loading="lazy"
                     alt="Author Image"
                     sizes="(max-width: 767px) 44vw, (max-width: 991px) 30vw, 31vw"
-                    srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946adf695cfbd6d241e25d_author-thumb-01-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946adf695cfbd6d241e25d_author-thumb-01-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946adf695cfbd6d241e25d_author-thumb-01.jpg 824w"
-                    src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946adf695cfbd6d241e25d_author-thumb-01.jpg"
+                    src="/assets/images/authors/david.jpg"
                   />
                 </div>
                 <div className="author-data">
@@ -62,8 +61,8 @@ export default function EditorialTeam() {
                     loading="lazy"
                     alt="Author Image"
                     sizes="(max-width: 767px) 44vw, (max-width: 991px) 30vw, 31vw"
-                    srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946b1b75a0e95bb4542812_author-thumb-02-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946b1b75a0e95bb4542812_author-thumb-02-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946b1b75a0e95bb4542812_author-thumb-02.jpg 824w"
-                    src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946b1b75a0e95bb4542812_author-thumb-02.jpg"
+                  
+                    src="/assets/images/authors/theresa.jpg"
                   />
                 </div>
                 <div className="author-data">
@@ -85,8 +84,8 @@ export default function EditorialTeam() {
                     loading="lazy"
                     alt="Author Image"
                     sizes="(max-width: 767px) 44vw, (max-width: 991px) 30vw, 31vw"
-                    srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946b3c9cc3c0bf31134c37_author-thumb-03-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946b3c9cc3c0bf31134c37_author-thumb-03-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946b3c9cc3c0bf31134c37_author-thumb-03.jpg 824w"
-                    src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67946b3c9cc3c0bf31134c37_author-thumb-03.jpg"
+                    
+                    src="/assets/images/authors/w.jpg"
                   />
                 </div>
                 <div className="author-data">

@@ -31,8 +31,8 @@ export default function EditorsPick() {
                     >
                       <div className="sub-text">World News</div>
                       <h5 className="editor-pick-title">
-                        The global financial landscape and its implications for
-                        all
+                        Trump Sanctions Palestinian Human Rights Groups for
+                        Doing Their Job.
                       </h5>
                     </a>
                   </div>
@@ -59,7 +59,7 @@ export default function EditorsPick() {
               className="editor-img"
             >
               <img
-                src="/assets/images/home/editor.jpg"
+                src="/assets/images/politics/palest.webp"
                 loading="lazy"
                 sizes="(max-width: 479px) 92vw, (max-width: 991px) 95vw, 57vw"
                 className="editor-image"

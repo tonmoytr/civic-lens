@@ -13,7 +13,7 @@ export default function Footer() {
               </h5>
 
               {/* Subscribe form */}
-              <div className="footer-form w-form">
+              {/* <div className="footer-form w-form">
                 <form
                   id="wf-form-Contact-Form"
                   name="wf-form-Contact-Form"
@@ -44,7 +44,7 @@ export default function Footer() {
                     Oops! Something went wrong while submitting the form.
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             {/* Link columns exactly like OG */}
@@ -79,7 +79,7 @@ export default function Footer() {
                   <div role="list" className="footer-links w-dyn-items">
                     <div role="listitem" className="footer-category w-dyn-item">
                       <a className="footer-link" href="/news/business">
-                        Business
+                        Politics
                       </a>
                     </div>
                     <div role="listitem" className="footer-category w-dyn-item">
@@ -271,12 +271,13 @@ export default function Footer() {
             <a href="/" className="brand w-inline-block w--current">
               <img
                 loading="lazy"
-                alt="Kivzo logo"
-                src="https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67933dc985d8376c0186d0d5_logo.svg"
+                alt="Civic Lens"
+                style={{width: "110px"}}
+                src="/assets/images/logo/foot.png"
               />
             </a>
             <div className="ftr-divider"></div>
-            <div className="ftr-links">
+            {/* <div className="ftr-links">
               <a className="footer-link" href="/privacy-policy">
                 Privacy Policy
               </a>
@@ -286,29 +287,30 @@ export default function Footer() {
               <a className="footer-link" href="/template-info/licensing">
                 License
               </a>
-            </div>
+            </div> */}
           </div>
 
           <div className="ftr-right">
-            <div>© 2025 Kivzo.</div>
+            <div>© 2025 Civic Lens.</div>
             <div>
-              Designed by
+              Designed
               <a
                 className="footer-link"
                 href="https://nixar.io/"
                 target="_blank"
               >
                 {" "}
-                Nixar
+                &
               </a>
-              . Powered by
+              Powered by
               <a
+                style={{ color: "orange" }}
                 className="footer-link"
-                href="https://webflow.com/"
+                href="https://aptecode.com/"
                 target="_blank"
               >
                 {" "}
-                Webflow
+                ApteCode
               </a>
               .
             </div>

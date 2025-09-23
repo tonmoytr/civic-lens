@@ -26,7 +26,7 @@ export default function AboutStory() {
               </p>
               <br /> <br />
               <p className="about-text">
-                When our Kivzo organizations and leaders stay true to their core
+                When our Civic organizations and leaders stay true to their core
                 beliefs and consistently translate them into meaningful actions,
                 they build trust, credibility, and loyalty. Aligning values with
                 actions fosters a culture of integrity.
