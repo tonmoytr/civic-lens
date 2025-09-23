@@ -8,35 +8,55 @@
       "title": "Adapting business strategies to meet changing demands",
       "date": "2025-02-10",
       "category": "Business",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "women-in-sports-celebrating",
       "title": "Women in sports: celebrating trailblazers and achievements",
       "date": "2025-01-25",
       "category": "Business",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "addressing-disparities",
       "title": "Addressing disparities and promoting equality worldwide",
       "date": "2025-01-25",
       "category": "Business",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "impact-of-economic-policies",
       "title": "Impact of economic policies on business growth",
       "date": "2025-01-25",
       "category": "Business",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "understanding-interconnectedness",
       "title": "Understanding the interconnectedness of events shaping our world today",
       "date": "2025-01-25",
       "category": "Business",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     }
   ]
 }

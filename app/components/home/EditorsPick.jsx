@@ -14,7 +14,7 @@ export default function EditorsPick() {
                 <div role="list" className="editor-pick-list w-dyn-items">
                   <div role="listitem" className="editor-pick-item w-dyn-item">
                     <a
-                      href="/news/the-power-of-art-in-connecting-and-expressing-cultural"
+                      href="/news/culture/power-of-art"
                       className="editor-pick-link w-inline-block"
                     >
                       <div className="sub-text">Culture</div>
@@ -26,20 +26,20 @@ export default function EditorsPick() {
 
                   <div role="listitem" className="editor-pick-item w-dyn-item">
                     <a
-                      href="/news/how-artificial-intelligence-machine-learning-are-changing-the-field"
+                      href="/news/world-news/global-financial-landscape"
                       className="editor-pick-link w-inline-block"
                     >
-                      <div className="sub-text">Health News</div>
+                      <div className="sub-text">World News</div>
                       <h5 className="editor-pick-title">
-                        How artificial intelligence &amp; machine learning are
-                        changing the field
+                        The global financial landscape and its implications for
+                        all
                       </h5>
                     </a>
                   </div>
 
                   <div role="listitem" className="editor-pick-item w-dyn-item">
                     <a
-                      href="/news/the-influence-of-youth-sports-programs-on-developing-future-champions"
+                      href="/news/sports/youth-sports-influence"
                       className="editor-pick-link w-inline-block"
                     >
                       <div className="sub-text">Sports</div>

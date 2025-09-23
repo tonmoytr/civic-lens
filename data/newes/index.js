@@ -17,3 +17,21 @@ export const allCategorySlugs = Object.keys(categoryMap);
 export function getCategory(slug) {
   return categoryMap[slug];
 }
+
+/* NEW: get a single post by category + slug */
+export function getPost(categorySlug, postSlug) {
+  const cat = categoryMap[categorySlug];
+  if (!cat) return undefined;
+  return cat.posts.find((p) => p.slug === postSlug);
+}
+
+/* NEW: flatten all posts for static params generation */
+export function allPostsFlat() {
+  return Object.values(categoryMap).flatMap((cat) =>
+    (cat.posts || []).map((p) => ({
+      ...p,
+      categorySlug: cat.slug,
+      categoryTitle: cat.title,
+    }))
+  );
+}

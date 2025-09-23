@@ -8,35 +8,55 @@
       "title": "The power of art in connecting and expressing cultural",
       "date": "2025-01-27",
       "category": "Culture",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "redefining-heritage",
       "title": "How generations are redefining heritage & cultural norms",
       "date": "2025-01-25",
       "category": "Culture",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "globalization-impact",
       "title": "The impact of globalization on local cultures & traditions",
       "date": "2025-01-25",
       "category": "Culture",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "tailored-treatments-genetic",
       "title": "Tailoring treatments to individual genetic profiles",
       "date": "2025-01-25",
       "category": "Culture",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "combat-environmental-challenges",
       "title": "Global efforts to combat environmental challenges",
       "date": "2025-01-25",
       "category": "Culture",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     }
   ]
 }

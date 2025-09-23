@@ -9,7 +9,7 @@ export default function Hero() {
                 <div role="list" className="w-dyn-items">
                   <div role="listitem" className="hero-news-item w-dyn-item">
                     <a
-                      href="/news/revolutionizing-manufacturing-emerging-trends-shaping-the-industry"
+                      href="/news/world-news/manufacturing-trends"
                       className="hero-news w-inline-block"
                     >
                       <div className="hero-img">
@@ -52,7 +52,7 @@ export default function Hero() {
                 <div role="list" className="article-list w-dyn-items">
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/adapting-business-strategies-to-meet-changing-demands"
+                      href="/news/business/adapting-business-strategies"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -70,7 +70,7 @@ export default function Hero() {
                         <div className="divider"></div>
                         <div>Feb 10, 2025</div>
                       </div>
-                      <h6 className="article-title">
+                      <h6 className="headline-title">
                         Adapting business strategies to meet changing demands
                       </h6>
                     </a>
@@ -78,7 +78,7 @@ export default function Hero() {
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/smart-homes-revolution-how-iot-is-transforming-living-spaces"
+                      href="/news/technology/smart-homes-revolution"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -96,7 +96,7 @@ export default function Hero() {
                         <div className="divider"></div>
                         <div>Feb 10, 2025</div>
                       </div>
-                      <h6 className="article-title">
+                      <h6 className="headline-title">
                         Smart homes revolution how iot is transforming living
                         spaces
                       </h6>
@@ -105,7 +105,7 @@ export default function Hero() {
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/the-power-of-art-in-connecting-and-expressing-cultural"
+                      href="/news/culture/power-of-art"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -123,7 +123,7 @@ export default function Hero() {
                         <div className="divider"></div>
                         <div>Jan 27, 2025</div>
                       </div>
-                      <h6 className="article-title">
+                      <h6 className="headline-title">
                         The power of art in connecting and expressing cultural
                       </h6>
                     </a>
@@ -131,7 +131,7 @@ export default function Hero() {
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/how-artificial-intelligence-machine-learning-are-changing-the-field"
+                      href="/news/business/impact-of-economic-policies"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -140,25 +140,24 @@ export default function Hero() {
                           className="news-category"
                         >
                           <img
-                            src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67a98e48bbe8cc882e048ed3_ic-health.svg"
+                            src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67a98e4f05dce558d931148e_ic-business.svg"
                             loading="lazy"
                             alt="Category Icon"
                           />
-                          <div>Health News</div>
+                          <div>Business News</div>
                         </div>
                         <div className="divider"></div>
                         <div>Jan 27, 2025</div>
                       </div>
-                      <h6 className="article-title">
-                        How artificial intelligence &amp; machine learning are
-                        changing the field
+                      <h6 className="headline-title">
+                        Impact of economic policies on business growth
                       </h6>
                     </a>
                   </div>
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/the-influence-of-youth-sports-programs-on-developing-future-champions"
+                      href="/news/sports/youth-sports-influence"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -176,7 +175,7 @@ export default function Hero() {
                         <div className="divider"></div>
                         <div>Jan 27, 2025</div>
                       </div>
-                      <h6 className="article-title">
+                      <h6 className="headline-title">
                         The influence of youth sports programs on developing
                         future champions
                       </h6>

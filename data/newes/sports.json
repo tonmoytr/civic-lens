@@ -8,35 +8,55 @@
       "title": "The influence of youth sports programs on developing future champions",
       "date": "2025-01-27",
       "category": "Sports",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "hosting-major-events",
       "title": "Hosting major sporting events on local & global scales",
       "date": "2025-01-25",
       "category": "Sports",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "sports-superstars-impact",
       "title": "The impact of sports superstars on a worldwide stage",
       "date": "2025-01-25",
       "category": "Sports",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "media-coverage-elevates",
       "title": "How media coverage elevates sports to a worldwide phenomenon",
       "date": "2025-01-25",
       "category": "Sports",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "new-ventures-business",
       "title": "New ventures are shaping the future of business",
       "date": "2025-01-25",
       "category": "Sports",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     }
   ]
 }

@@ -30,7 +30,7 @@ export default function EditorialTeam() {
             {/* Marvin McKinney */}
             <div role="listitem" className="author-item w-dyn-item">
               <a
-                href="/news-author/marvin-mckinney"
+                href="http://localhost:3000/authors/david"
                 className="author-block w-inline-block"
               >
                 <div className="author-img">
@@ -44,7 +44,7 @@ export default function EditorialTeam() {
                   />
                 </div>
                 <div className="author-data">
-                  <h5 className="author-name">Marvin McKinney</h5>
+                  <h5 className="author-name">David Klein</h5>
                   <div className="author-role">Senior Reporter</div>
                 </div>
               </a>
@@ -53,7 +53,7 @@ export default function EditorialTeam() {
             {/* Theresa Webb */}
             <div role="listitem" className="author-item w-dyn-item">
               <a
-                href="/news-author/theresa-webb"
+                href="http://localhost:3000/authors/theresa"
                 className="author-block w-inline-block"
               >
                 <div className="author-img">
@@ -67,7 +67,7 @@ export default function EditorialTeam() {
                   />
                 </div>
                 <div className="author-data">
-                  <h5 className="author-name">Theresa Webb</h5>
+                  <h5 className="author-name">Theresa Gomez</h5>
                   <div className="author-role">Publisher</div>
                 </div>
               </a>
@@ -76,7 +76,7 @@ export default function EditorialTeam() {
             {/* Esther Howards */}
             <div role="listitem" className="author-item w-dyn-item">
               <a
-                href="/news-author/esther-howards"
+                href="http://localhost:3000/authors/elisa"
                 className="author-block w-inline-block"
               >
                 <div className="author-img">
@@ -90,7 +90,7 @@ export default function EditorialTeam() {
                   />
                 </div>
                 <div className="author-data">
-                  <h5 className="author-name">Esther Howards</h5>
+                  <h5 className="author-name">Elisa McKinney</h5>
                   <div className="author-role">Content Writer</div>
                 </div>
               </a>

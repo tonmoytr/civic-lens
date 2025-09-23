@@ -56,7 +56,7 @@ export default function PodcastSection() {
           {/* Other Podcasts (right) */}
           <div className="podcasts">
             <div className="w-dyn-list">
-              <div role="list" className="podcast-list w-dyn-items">
+              <div role="list" className="podcast-lists w-dyn-items">
                 {/* Item 1 */}
                 <div role="listitem" className="podcast-item w-dyn-item">
                   <a

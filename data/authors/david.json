@@ -1,0 +1,15 @@
+{
+  "slug": "david",
+  "name": "David Klein",
+  "role": "Senior Reporter",
+  "image": "/assets/images/authors/david.jpg",
+  "bio": "Covers global economics and policy with a focus on manufacturing and labor.",
+  "socials": {
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://www.linkedin.com/"
+  },
+  "posts": [
+    { "category": "world-news", "slug": "manufacturing-trends" },
+    { "category": "business", "slug": "adapting-business-strategies" }
+  ]
+}

@@ -34,7 +34,7 @@ export default function LatestNews() {
               <div className="feature-news-list w-dyn-items" role="list">
                 <div className="feature-news-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/future-focused-an-in-depth-look-at-cutting-edge-tech-trends"
+                    href="/news/technology/future-focused-tech-trends"
                     className="feature-news-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252af8"
                   >
@@ -64,7 +64,7 @@ export default function LatestNews() {
 
                 <div className="feature-news-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/understanding-the-interconnectedness-of-events-shaping-our-world-today"
+                    href="/news/business/understanding-interconnectedness"
                     className="feature-news-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252afa"
                   >
@@ -101,7 +101,7 @@ export default function LatestNews() {
               <div className="blog-list w-dyn-items" role="list">
                 <div className="blog-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/adapting-business-strategies-to-meet-changing-demands"
+                    href="/news/business/adapting-business-strategies"
                     className="blog-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252afc"
                   >
@@ -130,7 +130,7 @@ export default function LatestNews() {
 
                 <div className="blog-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/smart-homes-revolution-how-iot-is-transforming-living-spaces"
+                    href="/news/technology/smart-homes-revolution"
                     className="blog-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252afe"
                   >
@@ -160,7 +160,7 @@ export default function LatestNews() {
 
                 <div className="blog-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/the-power-of-art-in-connecting-and-expressing-cultural"
+                    href="/news/culture/power-of-art"
                     className="blog-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252b00"
                   >

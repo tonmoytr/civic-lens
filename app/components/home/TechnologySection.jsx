@@ -35,7 +35,7 @@ export default function TechnologySection() {
                 {/* Item 1 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/smart-homes-revolution-how-iot-is-transforming-living-spaces"
+                    href="/news/technology/smart-homes-revolution"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -63,7 +63,7 @@ export default function TechnologySection() {
                 {/* Item 2 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/the-future-of-5g-connecting-a-world-at-lightning-speed"
+                    href="/news/technology/future-of-5g"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -90,7 +90,7 @@ export default function TechnologySection() {
                 {/* Item 3 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/cybersecurity-at-risk-the-growing-threat-of-digital-breaches"
+                    href="/news/technology/cybersecurity-at-risk"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -118,7 +118,7 @@ export default function TechnologySection() {
                 {/* Item 4 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/transforming-entertainment-education-beyond"
+                    href="/news/technology/immersive-tech"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -151,7 +151,7 @@ export default function TechnologySection() {
               <div className="ftn-list w-dyn-items" role="list">
                 <div className="ftn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/future-focused-an-in-depth-look-at-cutting-edge-tech-trends"
+                    href="/news/technology/future-focused-tech-trends"
                     className="ftn-link w-inline-block"
                   >
                     <img

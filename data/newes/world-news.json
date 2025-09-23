@@ -8,28 +8,44 @@
       "title": "Smart cities: integrating technology for better living",
       "date": "2025-01-25",
       "category": "World News",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "global-financial-landscape",
       "title": "The global financial landscape and its implications for all",
       "date": "2025-01-25",
       "category": "World News",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "global-strategies-stability",
       "title": "Unveiling global strategies for financial stability",
       "date": "2025-01-25",
       "category": "World News",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     },
     {
       "slug": "manufacturing-trends",
       "title": "Revolutionizing manufacturing: emerging trends shaping the industry",
       "date": "2025-01-25",
       "category": "World News",
-      "image": "/assets/images/news/news.jpg"
+      "image": "/assets/images/news/news.jpg",
+      "content": [
+        "Intro paragraph about IoT transforming daily life...",
+        "Second paragraph with more detail..."
+      ]
     }
   ]
 }

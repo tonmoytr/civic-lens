@@ -82,11 +82,11 @@ export default function Navbar() {
                       <div role="listitem" className="nav-link-item w-dyn-item">
                         <div className="dot"></div>
                         <Link
-                          href="/authors"
+                          href="/news/technology"
                           className="nav-link w-inline-block"
                         >
-                          <div className="link-text">Authors</div>
-                          <div className="link-hover-text">Authors</div>
+                          <div className="link-text">Technology</div>
+                          <div className="link-hover-text">Technology</div>
                         </Link>
                       </div>
                     </div>
