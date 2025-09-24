@@ -80,7 +80,7 @@ export default async function ArticlePage({ params }) {
             </Link>
           </div>
         </div>
-        <AdvertiseSection/>
+        <AdvertiseSection />
       </main>
       <Footer />
     </>

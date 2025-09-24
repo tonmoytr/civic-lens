@@ -6,7 +6,7 @@ export default function TechnologySection() {
         <div className="section-title">
           <h2 className="single-title">Technology</h2>
           <a
-            href="/news-categories/technology"
+            href="/news/technology"
             className="secondary-button w-inline-block"
           >
             <div
