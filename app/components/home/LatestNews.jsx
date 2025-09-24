@@ -63,7 +63,7 @@ export default function LatestNews() {
 
                 <div className="feature-news-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/business/understanding-interconnectedness"
+                    href="/news/politics/understanding-interconnectedness"
                     className="feature-news-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252afa"
                   >
@@ -99,7 +99,7 @@ export default function LatestNews() {
               <div className="blog-list w-dyn-items" role="list">
                 <div className="blog-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/business/adapting-business-strategies"
+                    href="/news/politics/adapting-business-strategies"
                     className="blog-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252afc"
                   >

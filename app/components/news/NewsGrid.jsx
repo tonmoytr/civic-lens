@@ -2,7 +2,7 @@ export default function NewsGrid() {
   const items = [
     {
       href: "/news/adapting-business-strategies-to-meet-changing-demands",
-      category: "Business",
+      category: "politics",
       date: "Feb 10, 2025",
       title: "Adapting business strategies to meet changing demands",
       img: "https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947eaa9d9e3571bda4252b_news-main-07.jpg",
@@ -60,7 +60,7 @@ export default function NewsGrid() {
     },
     {
       href: "/news/women-in-sports-celebrating-trailblazers-and-achievements",
-      category: "Business",
+      category: "politics",
       date: "Jan 25, 2025",
       title: "Women in sports celebrating trailblazers and achievements",
       img: "https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/6794821684309048ad790878_news-main-25.jpg",

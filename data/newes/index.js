@@ -1,11 +1,11 @@
-import business from "./business.json";
 import culture from "./culture.json";
+import politics from "./politics.json";
 import sports from "./sports.json";
 import technology from "./technology.json";
 import worldNews from "./world-news.json";
 
 export const categoryMap = {
-  [business.slug]: business,
+  [politics.slug]: politics,
   [worldNews.slug]: worldNews,
   [sports.slug]: sports,
   [culture.slug]: culture,

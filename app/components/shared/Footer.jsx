@@ -78,7 +78,7 @@ export default function Footer() {
                 <div className="w-dyn-list">
                   <div role="list" className="footer-links w-dyn-items">
                     <div role="listitem" className="footer-category w-dyn-item">
-                      <a className="footer-link" href="/news/business">
+                      <a className="footer-link" href="/news/politics">
                         Politics
                       </a>
                     </div>

@@ -1,13 +1,13 @@
 {
-  "slug": "business",
-  "title": "Business",
+  "slug": "politics",
+  "title": "politics",
   "tagline": "Stay updated with the latest news, stories, and insights from around the globe.",
   "posts": [
     {
       "slug": "adapting-business-strategies",
       "title": "Adapting business strategies to meet changing demands",
       "date": "2025-02-10",
-      "category": "Business",
+      "category": "politics",
       "image": "/assets/images/news/news.jpg",
       "content": [
         "Intro paragraph about IoT transforming daily life...",
@@ -18,7 +18,7 @@
       "slug": "women-in-sports-celebrating",
       "title": "Women in sports: celebrating trailblazers and achievements",
       "date": "2025-01-25",
-      "category": "Business",
+      "category": "politics",
       "image": "/assets/images/news/news.jpg",
       "content": [
         "Intro paragraph about IoT transforming daily life...",
@@ -29,7 +29,7 @@
       "slug": "addressing-disparities",
       "title": "Addressing disparities and promoting equality worldwide",
       "date": "2025-01-25",
-      "category": "Business",
+      "category": "politics",
       "image": "/assets/images/news/news.jpg",
       "content": [
         "Intro paragraph about IoT transforming daily life...",
@@ -40,7 +40,7 @@
       "slug": "impact-of-economic-policies",
       "title": "Impact of economic policies on business growth",
       "date": "2025-01-25",
-      "category": "Business",
+      "category": "politics",
       "image": "/assets/images/news/news.jpg",
       "content": [
         "Intro paragraph about IoT transforming daily life...",
@@ -51,7 +51,7 @@
       "slug": "understanding-interconnectedness",
       "title": "Understanding the interconnectedness of events shaping our world today",
       "date": "2025-01-25",
-      "category": "Business",
+      "category": "politics",
       "image": "/assets/images/news/news.jpg",
       "content": [
         "Intro paragraph about IoT transforming daily life...",

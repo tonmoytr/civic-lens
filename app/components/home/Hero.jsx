@@ -52,7 +52,7 @@ export default function Hero() {
                 <div role="list" className="article-list w-dyn-items">
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/business/adapting-business-strategies"
+                      href="/news/politics/adapting-business-strategies"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -133,7 +133,7 @@ export default function Hero() {
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/business/impact-of-economic-policies"
+                      href="/news/politics/impact-of-economic-policies"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -195,7 +195,7 @@ export default function Hero() {
               <div role="listitem" className="hero-category-item w-dyn-item">
                 <a
                   data-w-id="111bf94c-bd8e-eb26-f835-5daff8a9b32e"
-                  href="/news/business"
+                  href="/news/politics"
                   className="category-link w-inline-block"
                 >
                   <img
