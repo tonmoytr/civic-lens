@@ -106,7 +106,7 @@ export default function Hero() {
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/culture/power-of-art"
+                      href="/news/culture/afgan-boy-flies-from-kabul"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -125,8 +125,7 @@ export default function Hero() {
                         <div>Jan 27, 2025</div>
                       </div>
                       <h6 className="headline-title">
-                        How one man is protecting Maryland’s longest river—and
-                        inspiring a new generation
+                        Afghan boy flies from Kabul to Delhi hiding in plane's landing gear
                       </h6>
                     </a>
                   </div>
@@ -160,7 +159,7 @@ export default function Hero() {
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/sports/youth-sports-influence"
+                      href="/news/sports/soccers-most-expensive"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">

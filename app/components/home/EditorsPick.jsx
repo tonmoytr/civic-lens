@@ -14,12 +14,12 @@ export default function EditorsPick() {
                 <div role="list" className="editor-pick-list w-dyn-items">
                   <div role="listitem" className="editor-pick-item w-dyn-item">
                     <a
-                      href="/news/culture/power-of-art"
+                      href="/news/culture/operation-rockall-successfully-completed"
                       className="editor-pick-link w-inline-block"
                     >
                       <div className="sub-text">Culture</div>
                       <h5 className="editor-pick-title">
-                        The power of art in connecting and expressing cultural
+                        Operation Rockall successfully completed : -
                       </h5>
                     </a>
                   </div>
@@ -38,12 +38,12 @@ export default function EditorsPick() {
 
                   <div role="listitem" className="editor-pick-item w-dyn-item">
                     <a
-                      href="/news/sports/youth-sports-influence"
+                      href="/news/sports/abhishek-smashes-74-off-39"
                       className="editor-pick-link w-inline-block"
                     >
                       <div className="sub-text">Sports</div>
                       <h5 className="editor-pick-title">
-                        The influence of youth sports programs on...
+                        Abhishek smashes 74 off 39 ball vs PAK....
                       </h5>
                     </a>
                   </div>
@@ -57,7 +57,7 @@ export default function EditorsPick() {
               className="editor-img"
             >
               <img
-                src="/assets/images/news/black.jpg"
+                src="/assets/images/sports/abhishek.webp"
                 loading="lazy"
                 sizes="(max-width: 479px) 92vw, (max-width: 991px) 95vw, 57vw"
                 className="editor-image"

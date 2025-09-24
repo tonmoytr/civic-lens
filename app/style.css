@@ -5542,6 +5542,13 @@ blockquote {
 
 .editor-image {
   width: 100%;
+  height: 500px;
+}
+
+@media screen and (max-width:767px) {
+  .editor-image{
+    height: auto;
+  }
 }
 
 .editor-left {

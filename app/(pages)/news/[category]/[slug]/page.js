@@ -1,3 +1,4 @@
+import AdvertiseSection from "@/app/components/home/AdvertiseSection";
 import Footer from "@/app/components/shared/Footer";
 import Navbar from "@/app/components/shared/Navbar";
 import { allPostsFlat, getPost } from "@/data/newes";
@@ -79,6 +80,7 @@ export default async function ArticlePage({ params }) {
             </Link>
           </div>
         </div>
+        <AdvertiseSection/>
       </main>
       <Footer />
     </>

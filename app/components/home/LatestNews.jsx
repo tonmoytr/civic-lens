@@ -15,8 +15,8 @@ export default function LatestNews() {
                 borderRadius: "9px;",
                 padding: "7px 18px",
               }}
-            > 
-              View All  <span aria-hidden>→</span>
+            >
+              View All <span aria-hidden>→</span>
             </div>
             {/* <img
               className="arrow"
@@ -44,18 +44,18 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 767px) 46vw, (max-width: 991px) 47vw, 35vw"
-                        src="/assets/images/tech/tech2.webp"
+                        src="/assets/images/tech/4.webp"
                       />
                     </div>
                     <div className="feature-news-data">
                       <div className="news-date">
                         <div>Technology</div>
                         <div className="divider"></div>
-                        <div>Jan 25, 2025</div>
+                        <div>Sept 12, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Future-focused an in-depth look at cutting-edge tech
-                        trends
+                        Proton Mail Suspended Journalist Accounts at Request of
+                        Cybersecurity Agency
                       </h5>
                     </div>
                   </a>
@@ -137,19 +137,18 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 991px) 28vw, 23vw"
-                        srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679481dbfdb5af29738f15bf_news-thumb-23-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679481dbfdb5af29738f15bf_news-thumb-23-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679481dbfdb5af29738f15bf_news-thumb-23.jpg 824w"
-                        src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/679481dbfdb5af29738f15bf_news-thumb-23.jpg"
+                        src="/assets/images/tech/3.webp"
                       />
                     </div>
                     <div className="blog-data">
                       <div className="news-date">
                         <div>Technology</div>
                         <div className="divider"></div>
-                        <div>Feb 10, 2025</div>
+                        <div>Sept 16, 2025</div>
                       </div>
                       <h6 className="blog-title">
-                        Smart homes revolution how iot is transforming living
-                        spaces
+                        Google Secretly Handed ICE Data About Pro-Palestine
+                        Student Activist
                       </h6>
                     </div>
                   </a>
@@ -157,7 +156,7 @@ export default function LatestNews() {
 
                 <div className="blog-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/culture/power-of-art"
+                    href="/news/culture/why-the-most-controversial-queen"
                     className="blog-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252b00"
                   >
@@ -167,18 +166,18 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 991px) 28vw, 23vw"
-                        srcSet="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67948025d1fcfa10bf1986f3_news-thumb-16-p-500.jpg 500w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67948025d1fcfa10bf1986f3_news-thumb-16-p-800.jpg 800w, https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67948025d1fcfa10bf1986f3_news-thumb-16.jpg 824w"
-                        src="https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67948025d1fcfa10bf1986f3_news-thumb-16.jpg"
+                        src="/assets/images/culture/queen.webp"
                       />
                     </div>
                     <div className="blog-data">
                       <div className="news-date">
                         <div>Culture</div>
                         <div className="divider"></div>
-                        <div>Jan 27, 2025</div>
+                        <div>Sept 16, 2025</div>
                       </div>
                       <h6 className="blog-title">
-                        The power of art in connecting and expressing cultural
+                        Why 'the most controversial queen in history' was so
+                        hated
                       </h6>
                     </div>
                   </a>

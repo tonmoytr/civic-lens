@@ -68,7 +68,7 @@ export default function PodcastSection() {
                 <div role="listitem" className="podcast-item w-dyn-item">
                   <a
                     data-w-id="cf33d4b0-3f32-a188-3d4c-564004a248e7"
-                    href="/podcast/beyond-the-mic-transformative-ideas-powerful-voices-endless-inspiration"
+                    href="/podcast/trumps-cult-of-power-cancels"
                     className="podcast-link w-inline-block"
                   >
                     <img

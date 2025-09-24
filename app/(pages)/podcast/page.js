@@ -1,3 +1,4 @@
+import AdvertiseSection from "@/app/components/home/AdvertiseSection";
 import PodcastsPageTitle from "@/app/components/podcasts/PodcastPageTitle";
 import PodcastGrid from "@/app/components/podcasts/PodcastsGrid";
 import Footer from "@/app/components/shared/Footer";
@@ -10,6 +11,7 @@ export default function PodcastsPage() {
       <main>
         <PodcastsPageTitle />
         <PodcastGrid />
+        <AdvertiseSection/>
       </main>
       <Footer />
     </div>
