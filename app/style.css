@@ -8684,7 +8684,7 @@ blockquote {
 
 /* title and cta */
 .news-title {
-  margin: 14px 18px 0 18px;
+  margin: 25px 0;
   font-size: var(--title-size);
   line-height: 1.35;
   color: var(--ink);
@@ -8987,4 +8987,17 @@ blockquote {
   color: var(--ink);
   text-decoration: underline;
   text-underline-offset: 3px;
+}
+/* Make the image container work with next/image fill */
+.news-img {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 12px;
+  overflow: hidden;
+}
+.news-image {
+  padding: 0 10px;
+  border-radius: 20px;
+  object-fit: cover;
 }

@@ -13,7 +13,7 @@ export default function EditorialTeam() {
                 padding: "7px 18px",
               }}
             >
-              View All
+              View All  <span aria-hidden>→</span>
             </div>
             {/* <img
               className="arrow"

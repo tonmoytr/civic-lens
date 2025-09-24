@@ -10,7 +10,15 @@ export default function PodcastSection() {
             href="/podcast"
             className="secondary-button w-inline-block"
           >
-            <div>View All</div>
+            <div
+              style={{
+                border: "1px solid black;",
+                borderRadius: "9px;",
+                padding: "7px 18px",
+              }}
+            >
+              View All <span aria-hidden>→</span>
+            </div>
             {/* <img
               loading="lazy"
               alt="Arrow"

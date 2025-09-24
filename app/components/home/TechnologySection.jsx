@@ -16,7 +16,7 @@ export default function TechnologySection() {
                 padding: "7px 18px",
               }}
             >
-              View All
+              View All <span aria-hidden>→</span>
             </div>
             {/* <img
               className="arrow"
@@ -167,7 +167,8 @@ export default function TechnologySection() {
                       <div>
                         <div className="ftn-date">Jan 25, 2025</div>
                         <h3 className="ftn-title">
-                          Microsoft Says It’s Censoring Employee Emails Containing the Word “Palestine”
+                          Microsoft Says It’s Censoring Employee Emails
+                          Containing the Word “Palestine”
                         </h3>
                       </div>
                     </div>

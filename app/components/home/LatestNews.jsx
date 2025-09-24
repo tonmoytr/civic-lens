@@ -15,8 +15,8 @@ export default function LatestNews() {
                 borderRadius: "9px;",
                 padding: "7px 18px",
               }}
-            >
-              View All
+            > 
+              View All  <span aria-hidden>→</span>
             </div>
             {/* <img
               className="arrow"
