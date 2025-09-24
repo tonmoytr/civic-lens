@@ -9,7 +9,7 @@ export default function Hero() {
                 <div role="list" className="w-dyn-items">
                   <div role="listitem" className="hero-news-item w-dyn-item">
                     <a
-                      href="/news/world-news/manufacturing-trends"
+                      href="/news/world-news/maga-movement"
                       className="hero-news w-inline-block"
                     >
                       <div className="hero-img">
@@ -22,8 +22,8 @@ export default function Hero() {
                       </div>
                       <div className="hero-data">
                         <h1 className="hero-title">
-                          Tamara Keith and Amy Walter on the future of the MAGA
-                          movement
+                          James Carter and Emily Brooks on the future of the
+                          MAGA movement
                         </h1>
                         <div className="news-date">
                           <div
@@ -52,7 +52,7 @@ export default function Hero() {
                 <div role="list" className="article-list w-dyn-items">
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/politics/adapting-business-strategies"
+                      href="/news/politics/trump-idea-of-criminal"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -79,7 +79,7 @@ export default function Hero() {
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/technology/smart-homes-revolution"
+                      href="/news/technology/goolge-security-handed-ice"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -133,7 +133,7 @@ export default function Hero() {
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/politics/impact-of-economic-policies"
+                      href="/news/politics/trump-wants-label-antifa"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">

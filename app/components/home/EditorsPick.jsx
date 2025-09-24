@@ -26,13 +26,12 @@ export default function EditorsPick() {
 
                   <div role="listitem" className="editor-pick-item w-dyn-item">
                     <a
-                      href="/news/world-news/global-financial-landscape"
+                      href="/news/world-news/black-farmers-struggle"
                       className="editor-pick-link w-inline-block"
                     >
                       <div className="sub-text">World News</div>
                       <h5 className="editor-pick-title">
-                        Trump Sanctions Palestinian Human Rights Groups for
-                        Doing Their Job.
+                        Black farmers struggle in face of structural racism
                       </h5>
                     </a>
                   </div>
@@ -44,8 +43,7 @@ export default function EditorsPick() {
                     >
                       <div className="sub-text">Sports</div>
                       <h5 className="editor-pick-title">
-                        The influence of youth sports programs on developing
-                        future champions
+                        The influence of youth sports programs on...
                       </h5>
                     </a>
                   </div>
@@ -59,7 +57,7 @@ export default function EditorsPick() {
               className="editor-img"
             >
               <img
-                src="/assets/images/politics/palest.webp"
+                src="/assets/images/news/black.jpg"
                 loading="lazy"
                 sizes="(max-width: 479px) 92vw, (max-width: 991px) 95vw, 57vw"
                 className="editor-image"

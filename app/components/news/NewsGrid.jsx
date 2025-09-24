@@ -1,14 +1,14 @@
 export default function NewsGrid() {
   const items = [
     {
-      href: "/news/adapting-business-strategies-to-meet-changing-demands",
+      href: "/news/trump-idea-of-criminal-to-meet-changing-demands",
       category: "politics",
       date: "Feb 10, 2025",
       title: "Adapting business strategies to meet changing demands",
       img: "https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67947eaa9d9e3571bda4252b_news-main-07.jpg",
     },
     {
-      href: "/news/smart-homes-revolution-how-iot-is-transforming-living-spaces",
+      href: "/news/goolge-security-handed-ice-how-iot-is-transforming-living-spaces",
       category: "Technology",
       date: "Feb 10, 2025",
       title: "Smart homes revolution how iot is transforming living spaces",
@@ -52,14 +52,14 @@ export default function NewsGrid() {
       img: "https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/6794837850cd96fa6b983c01_news-main-30.jpg",
     },
     {
-      href: "/news/the-future-of-5g-connecting-a-world-at-lightning-speed",
+      href: "/news/the-boder-patrol-wants-advanced-ai-connecting-a-world-at-lightning-speed",
       category: "Technology",
       date: "Jan 25, 2025",
       title: "The future of 5G connecting a world at lightning speed",
       img: "https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/6794823684309048ad791366_news-main-26.jpg",
     },
     {
-      href: "/news/women-in-sports-celebrating-trailblazers-and-achievements",
+      href: "/news/trump-wants-label-antifa-trailblazers-and-achievements",
       category: "politics",
       date: "Jan 25, 2025",
       title: "Women in sports celebrating trailblazers and achievements",

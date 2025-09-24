@@ -4,58 +4,58 @@
   "tagline": "Stay updated with the latest news, stories, and insights from around the globe.",
   "posts": [
     {
-      "slug": "smart-homes-revolution",
-      "title": "Smart homes revolution: how IoT is transforming living spaces",
-      "date": "2025-02-10",
+      "slug": "goolge-security-handed-ice",
+      "title": "Google Secretly Handed ICE Data About Pro-Palestine Student Activist",
+      "date": "2025-09-16",
       "category": "Technology",
-      "image": "/assets/images/news/news.jpg",
+      "image": "/assets/images/tech/3.webp",
       "content": [
-        "Intro paragraph about IoT transforming daily life...",
-        "Second paragraph with more detail..."
+        "Google handed over Gmail account information to ICE before notifying the student or giving him an opportunity to challenge the subpoena.",
+        "Even before immigration authorities began rounding up international students who had spoken out about Israel’s war on Gaza earlier this spring, there was a sense of fear among campus activists. Two graduate students at Cornell University — Momodou Taal and Amandla Thomas-Johnson — were so worried they would be targeted that they fled their dorms to lay low in a house outside Ithaca, New York. As they feared, Homeland Security Investigations, the intelligence division of U.S. Immigration and Customs Enforcement, was intent to track them both down. As agents scrambled to find Taal and Thomas-Johnson, HSI sent subpoenas to Google and Meta for sensitive data information about their Gmail, Facebook, and Instagram accounts. In Thomas-Johnson’s case, The Intercept found, Google handed over data to ICE before notifying him or giving him an opportunity to challenge the subpoena. By the time he found out about the data demand, Thomas-Johnson had already left the U.S. During the first Trump administration, tech companies publicly fought federal subpoenas on behalf of their users who were targeted for protected speech — sometimes with great fanfare. With ICE ramping up its use of dragnet tools to meet its deportation quotas and smoke out noncitizens who protest Israel’s war on Gaza, Silicon Valley’s willingness to accommodate these kinds of subpoenas puts those who speak out at greater risk. Lindsay Nash, a professor at Cardozo School of Law in New York who has studied ICE’s use of administrative subpoenas, said she was concerned but not surprised that Google complied with the subpoena about Thomas-Johnson’s account without notifying him. “Subpoenas can easily be used and the person never knows,” Nash told The Intercept. “It’s problematic to have a situation in which people who are targeted by these subpoenas don’t have an opportunity to vindicate their rights.” Google declined to discuss the specifics of the subpoenas, but the company said administrative subpoenas like these do not include facts about the underlying investigation. “Our processes for handling law enforcement subpoenas are designed to protect users’ privacy while meeting our legal obligations,” said a Google spokesperson in an emailed statement. “We review every subpoena and similar order for legal validity, and we push back against those that are overbroad or improper, including objecting to some entirely.” ICE agents sent the administrative subpoenas to Google and Meta by invoking a broad legal provision that gives immigration officers authority to demand documents “relating to the privilege of any person to enter, reenter, reside in, or pass through the United States.” One recent study based on ICE records found agents invoke this same provision hundreds of times each year in administrative subpoenas to tech companies. Another study found ICE’s subpoenas to tech companies and other private entities “overwhelmingly sought information that could be used to locate ICE’s targets.” Unlike search warrants, administrative subpoenas like these do not require a judge’s signature or probable cause of a crime, which means they are ripe for abuse."
       ]
     },
     {
-      "slug": "future-focused-tech-trends",
-      "title": "Future-focused: an in-depth look at cutting-edge tech trends",
-      "date": "2025-01-25",
+      "slug": "proton-mail-suspended",
+      "title": "Proton Mail Suspended Journalist Accounts at Request of Cybersecurity Agency",
+      "date": "2025-09-12",
       "category": "Technology",
-      "image": "/assets/images/news/news.jpg",
+      "image": "/assets/images/tech/4.webp",
       "content": [
-        "Intro paragraph about IoT transforming daily life...",
-        "Second paragraph with more detail..."
+        "The journalists were reporting on suspected North Korean hackers. Proton only reinstated their accounts after a public outcry.",
+        "The company behind the Proton Mail email service, Proton, describes itself as a “neutral and safe haven for your personal data, committed to defending your freedom.” But last month, Proton disabled email accounts belonging to journalists reporting on security breaches of various South Korean government computer systems following a complaint by an unspecified cybersecurity agency. After a public outcry, and multiple weeks, the journalists’ accounts were eventually reinstated — but the reporters and editors involved still want answers on how and why Proton decided to shut down the accounts in the first place. Martin Shelton, deputy director of digital security at the Freedom of the Press Foundation, highlighted that numerous newsrooms use Proton’s services as alternatives to something like Gmail “specifically to avoid situations like this,” pointing out that “While it’s good to see that Proton is reconsidering account suspensions, journalists are among the users who need these and similar tools most.” Newsrooms like The Intercept, the Boston Globe, and the Tampa Bay Times all rely on Proton Mail for emailed tip submissions. Shelton noted that perhaps Proton should “prioritize responding to journalists about account suspensions privately, rather than when they go viral.” On Reddit, Proton’s official account stated that “Proton did not knowingly block journalists’ email accounts” and that the “situation has unfortunately been blown out of proportion.” Proton did not respond to The Intercept’s request for comment. The two journalists whose accounts were disabled were working on an article published in the August issue of the long-running hacker zine Phrack. The story described how a sophisticated hacking operation — what’s known in cybersecurity parlance as an APT, or advanced persistent threat — had wormed its way into a number of South Korean computer networks, including those of the Ministry of Foreign Affairs and the military Defense Counterintelligence Command, or DCC. The journalists, who published their story under the names Saber and cyb0rg, describe the hack as being consistent with the work of Kimsuky, a notorious North Korean state-backed APT sanctioned by the U.S. Treasury Department in 2023. As they pieced the story together, emails viewed by The Intercept show that the authors followed cybersecurity best practices and conducted what’s known as responsible disclosure: notifying affected parties that a vulnerability has been discovered in their systems prior to publicizing the incident. Saber and cyb0rg created a dedicated Proton Mail account to coordinate the responsible disclosures, then proceeded to notify the impacted parties, including the Ministry of Foreign Affairs and the DCC, and also notified South Korean cybersecurity organizations like the Korea Internet and Security Agency, and KrCERT/CC, the state-sponsored Computer Emergency Response Team. According to emails viewed by The Intercept, KrCERT wrote back to the authors, thanking them for their disclosure. CERTs are agencies consisting of cybersecurity experts specializing in dealing with and responding to security incidents. CERTs exist in over 70 countries — with some countries having multiple CERTs each specializing in a particular field such as the financial sector — and may be government-sponsored or private organizations. They adhere to a set of formal technical standards, such as being expected to react to reported cybersecurity threats and security incidents. A high-profile example of a CERT agency in the U.S. is the Cybersecurity and Infrastructure Agency, which has recently been gutted by the Trump administration."
       ]
     },
     {
-      "slug": "future-of-5g",
-      "title": "The future of 5G: connecting a world at lightning speed",
-      "date": "2025-01-25",
+      "slug": "boder-patrol-wants-advanced-ai",
+      "title": "Border Patrol Wants Advanced AI to Spy on American Cities",
+      "date": "2025-06-23",
       "category": "Technology",
-      "image": "/assets/images/news/news.jpg",
+      "image": "/assets/images/tech/5.webp",
       "content": [
-        "Intro paragraph about IoT transforming daily life...",
-        "Second paragraph with more detail..."
+        "A U.S. Border Patrol “Industry Day” deck also asks for drones, seismic sensors, and tech that can see through walls.",
+        "U.S. Customs and Border Protection, flush with billions in new funding, is seeking “advanced AI” technologies to surveil urban residential areas, increasingly sophisticated autonomous systems, and even the ability to see through walls. A CBP presentation for an “Industry Day” summit with private sector vendors, obtained by The Intercept, lays out a detailed wish list of tech CBP hopes to purchase, like satellite connectivity for surveillance towers along the border and improved radio communications. But it also shows that state-of-the-art, AI-augmented surveillance technologies will be central to the Trump administration’s anti-immigrant campaign, which will extend deep into the interior of the North American continent, hundreds of miles from international borders as commonly understood. The recent passage of Trump’s sprawling flagship legislation funnels tens of billions of dollars to the Department of Homeland Security. While much of that funding will go to Immigration and Customs Enforcement to bolster the administration’s arrest and deportation operations, a great deal is earmarked to purchase new technology and equipment for federal offices tasked with preventing immigrants from arriving in the first place: Customs and Border Protection, which administers the country’s border surveillance apparatus, and its subsidiary, the U.S. Border Patrol. One page of the presentation, describing the wishlist of Border Patrol’s Law Enforcement Operations Division, says the agency needs “Advanced AI to identify and track suspicious activity in urban environment [sic],” citing the “challenges” posed by “Dense residential areas.” What’s considered “suspicious activity” is left unmentioned. Customs and Border Protection did not respond to questions posed about the slides by The Intercept."
       ]
     },
     {
-      "slug": "cybersecurity-at-risk",
-      "title": "Cybersecurity at risk: the growing threat of digital breaches",
-      "date": "2025-01-25",
+      "slug": "grok-is-the-latest",
+      "title": "Grok Is the Latest in a Long Line of Chatbots to Go Full Nazi",
+      "date": "2025-06-11",
       "category": "Technology",
-      "image": "/assets/images/news/news.jpg",
+      "image": "/assets/images/tech/6.webp",
       "content": [
-        "Intro paragraph about IoT transforming daily life...",
-        "Second paragraph with more detail..."
+        "Grok’s recent antisemitic turn is not an aberration, but part of a pattern of AI chatbots churning out hateful drivel.",
+        "Grok, the Artificial intelligence chatbot from Elon Musk’s xAI, recently gave itself a new name: MechaHitler. This came amid a spree of antisemitic comments by the chatbot on Musk’s X platform, including claiming that Hitler was the best person to deal with “anti-white hate” and repeatedly suggesting the political left is disproportionately populated by people whose names Grok perceives to be Jewish. In the following days, Grok has begun gaslighting users and denying that the incident has ever happened. “We are aware of recent posts made by Grok and are actively working to remove the inappropriate posts,” a statement posted on Grok’s official X account reads. It noted that “xAI is training only truth-seeking.” This isn’t, however, the first time that AI chatbots have made antisemitic or racist remarks; in fact it’s just the latest example of a continuous pattern of AI-powered hateful output, based on training data consisting of social media slop. In fact, this specific incident isn’t even Grok’s first rodeo. “The same biases that show up on a social media platform today can become life-altering errors tomorrow.” About two months prior to this week’s antisemitic tirades, Grok dabbled in Holocaust denial, stating that it was skeptical that six million Jewish people were killed by the Nazis, “as numbers can be manipulated for political narratives.” The chatbot also ranted about a “white genocide” in South Africa, stating it had been instructed by its creators that the genocide was “real and racially motivated.” xAI subsequently claimed that this incident was owing to an “unauthorized modification” made to Grok. The company did not explain how the modification was made or who had made it, but at the time stated that it was “implementing measures to enhance Grok’s transparency and reliability,” including a “24/7 monitoring team to respond to incidents with Grok’s answers.” But Grok is by no means the only chatbot to engage in these kinds of rants. Back in 2016, Microsoft released its own AI chatbot on Twitter, which is now X, called Tay. Within hours, Tay began saying that “Hitler was right I hate the jews” and that the Holocaust was “made up.” Microsoft claimed that Tay’s responses were owing to a “co-ordinated effort by some users to abuse Tay’s commenting skills to have Tay respond in inappropriate ways.” The next year, in response to the question of “What do you think about healthcare?” Microsoft’s subsequent chatbot, Zo, responded with “The far majority practise it peacefully but the quaran is very violent [sic].” Microsoft stated that such responses were “rare.” In 2022, Meta’s BlenderBot chatbot responded that it’s “not implausible” to the question of whether Jewish people control the economy. Upon launching the new version of the chatbot, Meta made a preemptive disclaimer that the bot can make “rude or offensive comments.” Studies have also shown that AI chatbots exhibit more systematic hateful patterns. For instance, one study found that various chatbots such as Google’s Bard and OpenAI’s ChatGPT perpetuated “debunked, racist ideas” about Black patients. Responding to the study, Google claimed they are working to reduce bias."
       ]
     },
     {
-      "slug": "immersive-tech",
-      "title": "Transforming entertainment, education & beyond",
-      "date": "2025-01-25",
+      "slug": "microsoft-says-censoring",
+      "title": "Microsoft Says It’s Censoring Employee Emails Containing the Word “Palestine”",
+      "date": "2025-05-22",
       "category": "Technology",
-      "image": "/assets/images/news/news.jpg",
+      "image": "/assets/images/tech/7.webp",
       "content": [
-        "Intro paragraph about IoT transforming daily life...",
-        "Second paragraph with more detail..."
+        "When workers send emails including words related to Israel’s war on Gaza, messages are delayed by hours or never arrive at all.",
+        "Following multiple employee-led protests against the company’s contracts with the Israeli military, Microsoft workers discovered that any emails they send containing the word “Palestine” inexplicably disappear. According to internal communications reviewed by The Intercept, employees on Wednesday began noticing that email messages sent from their company account containing a handful of keywords related to Palestine and Israel’s ongoing war in Gaza were not transmitted as expected. In some cases, employees say the emails arrived after many hours. Other emails never even made it to the intended recipient’s inbox at all. Keywords subject to the disruption, according to employee test messages shared with The Intercept, include “Palestine,” “Gaza,” “apartheid,” and “genocide.” The word “Palestinian” does not appear affected, nor did emails containing deliberate misspellings of the word “Palestine.” Emails mentioning Israel appear to have gone through immediately. The outage was first reported by The Verge. In an email to The Intercept, Microsoft spokesperson Frank Shaw confirmed and defended the blockage. “Emailing large numbers of employees about any topic not related to work is not appropriate. We have a established forum for employees who have opted in to political issues. Over the past couple of days, a number of politically focused emails have been sent to tens of thousands of employees across the company and we have taken measures to try and reduce those emails to those that have not opted in.” The heavy-handed approach, however, is not just deterring messages sent to large numbers of recipients, but also blocking all emails mentioning Palestine. Following an April 7 protest at an event celebrating Microsoft’s 50th anniversary, two employees “sent separate emails to thousands of coworkers, calling on Microsoft to cut its contracts with the Israeli government,” The Verge reported."
       ]
     }
   ]

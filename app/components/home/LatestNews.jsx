@@ -34,7 +34,7 @@ export default function LatestNews() {
               <div className="feature-news-list w-dyn-items" role="list">
                 <div className="feature-news-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/future-focused-tech-trends"
+                    href="/news/technology/proton-mail-suspended"
                     className="feature-news-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252af8"
                   >
@@ -63,7 +63,7 @@ export default function LatestNews() {
 
                 <div className="feature-news-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/politics/understanding-interconnectedness"
+                    href="/news/world-news/mit-professor-cancels"
                     className="feature-news-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252afa"
                   >
@@ -78,9 +78,9 @@ export default function LatestNews() {
                     </div>
                     <div className="feature-news-data">
                       <div className="news-date">
-                        <div>Politics</div>
+                        <div>World News</div>
                         <div className="divider"></div>
-                        <div>Jan 25, 2025</div>
+                        <div>Sept 23, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
                         MIT Professor Cancels Israeli Military Grant After
@@ -99,7 +99,7 @@ export default function LatestNews() {
               <div className="blog-list w-dyn-items" role="list">
                 <div className="blog-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/politics/adapting-business-strategies"
+                    href="/news/world-news/data-shows-political-violence"
                     className="blog-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252afc"
                   >
@@ -109,18 +109,17 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 991px) 28vw, 23vw"
-                        src="/assets/images/politics/unnamed.webp"
+                        src="/assets/images/politics/data.webp"
                       />
                     </div>
                     <div className="blog-data">
                       <div className="news-date">
                         <div>Politics</div>
                         <div className="divider"></div>
-                        <div>Feb 10, 2025</div>
+                        <div>Sept 17, 2025</div>
                       </div>
                       <h6 className="blog-title">
-                        Unnamed Pentagon Officials Ridicule Hegseth’s Plan to
-                        Stop War Department Leaks
+                        The Data Shows Political Violence Is Actually Down
                       </h6>
                     </div>
                   </a>
@@ -128,7 +127,7 @@ export default function LatestNews() {
 
                 <div className="blog-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/smart-homes-revolution"
+                    href="/news/technology/goolge-security-handed-ice"
                     className="blog-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252afe"
                   >

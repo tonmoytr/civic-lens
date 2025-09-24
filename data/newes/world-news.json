@@ -1,50 +1,50 @@
 {
   "slug": "world-news",
   "title": "World News",
-  "tagline": "Stay updated with the latest news, stories, and insights from around the globe.",
+  "tagline": "James Carter and Emily Brooks on the future of the MAGA movement",
   "posts": [
     {
-      "slug": "smart-cities-tech",
-      "title": "Smart cities: integrating technology for better living",
-      "date": "2025-01-25",
+      "slug": "maga-movement",
+      "title": "James Carter and Emily Brooks on the future of the MAGA movement",
+      "date": "2025-09-22",
       "category": "World News",
-      "image": "/assets/images/news/news.jpg",
+      "image": "/assets/images/podcasts/3.webp",
       "content": [
-        "Intro paragraph about IoT transforming daily life...",
-        "Second paragraph with more detail..."
+        "NPR’s James Carter and Emily Brooks of the Cook Political Report with Emily Brooks join Geoff Bennett to discuss the latest political news, including the pace of actions coming from President Trump eight months into his term and the future of his MAGA movement.",
+        "It has been eight months since President Trump returned to the White House, and the pace of actions coming from his administration continues to accelerate. To help sort through a busy few days, we are joined now by our Politics Monday duo. That's Amy Walter of The Cook Political Report With Amy Walter and Tamara Keith of NPR. It's always great to see you both. And, look, if folks are overwhelmed by the news and recent developments out of Washington, they have good reason to be. Our team put together a list of just what has transpired since this past weekend. You see it all there. Tam — and this, we should say, is not the entirety of it. But let's talk about the president being unusually explicit in directing his attorney general to pursue criminal cases against his political opponents, something that past presidents even avoided hinting at. How should we understand the way President Trump is wielding power right now?"
       ]
     },
     {
-      "slug": "global-financial-landscape",
-      "title": "The global financial landscape and its implications for all",
-      "date": "2025-01-25",
+      "slug": "black-farmers-struggle",
+      "title": "Black farmers struggle in face of structural racism and economic headwinds",
+      "date": "2025-09-18",
       "category": "World News",
-      "image": "/assets/images/news/news.jpg",
+      "image": "/assets/images/news/black.jpg",
       "content": [
-        "Intro paragraph about IoT transforming daily life...",
-        "Second paragraph with more detail..."
+        "The number of self-identified Black farmers in the United States has dwindled over the last century, in part because of overt discrimination by the U.S. Department of Agriculture. The agency is the economic backbone for most American farmers through its financing, insurance, research and education programs. Fred de Sam Lazaro reports on a push to help Black and other underserved farmers survive.",
+        "The number of self-identified Black farmers in the United States has dwindled over the last century, in part because of discrimination by the U.S. Department of Agriculture. The agency is the economic backbone for most American farmers through its financing, insurance and research and education programs. Special correspondent Fred de Sam Lazaro reports from Oklahoma, where, despite roadblocks to federal aid, there's a concerted push to help Black and other underserved farmers survive.\n\nLeroy Brinkley, Rancher:\nI knew I was going to do this since I was 7 years old. First time I pretty much got on a tractor with my uncle, and I knew I love agriculture. Wouldn't give it for nothing in the world.\n\nFred de Sam Lazaro:\nDid you know how tough it was going to be?\n\nLeroy Brinkley:\nNo. I do now.\n\nFred de Sam Lazaro:\nFor 50 year old Leroy Brinkley, self-described hermit, this 80-acre farm with nearly three dozen beef cows is his comfort zone, a labor-intensive full-time job, but it is one he has to finance by working at least as long off the farm as a heavy equipment mechanic and truck driver.\n\nWhy isn't farming by itself a full-time occupation? Because the work certainly is full-time, right?\n\nLeroy Brinkley:\nYes, the work is there, but the money is not. Economically, I don't see this working just by itself.\n\nFred de Sam Lazaro:\nWhen he began farming three decades ago, Leroy Brinkley tried to get a loan from the USDA. But at the local office, he says he was turned down and turned off by the experience.\n\nLeroy Brinkley:\nI brought the papers, and it was just no support. I could tell from the get-go I wasn't going to get help. I tried it anyway, trying to be nice, polite. I still didn't get the support that I needed from it. So, I couldn't bother with it anymore.\n\nFred de Sam Lazaro:\nAn experience all too familiar to Black and minority farmers.\n\nJohn Boyd Jr., President, National Black Farmers Association:\nWe have clearly been dumped on worse than any other race in this country by our own federal government."
       ]
     },
     {
-      "slug": "global-strategies-stability",
-      "title": "Unveiling global strategies for financial stability",
-      "date": "2025-01-25",
+      "slug": "mit-professor-cancels",
+      "title": "MIT Professor Cancels Israeli Military Grant After Student Pressure",
+      "date": "2025-09-23",
       "category": "World News",
-      "image": "/assets/images/news/news.jpg",
+      "image": "/assets/images/politics/top.webp",
       "content": [
-        "Intro paragraph about IoT transforming daily life...",
-        "Second paragraph with more detail..."
+        "This concession shows that student campaigns do have an influence,” one student said. These ties cannot survive transparency.",
+        "Pro-Palestine student activists across the country have struggled to get their universities to respond to pressure for divestment from Israel and its military–industrial complex. So when a professor at the Massachusetts Institute of Technology withdrew from a grant from the Israeli military after hearing feedback from students protesting the ongoing genocide in Gaza, it was especially welcome news. “This is one of the only cases where we know that student activism and public pressure led directly to an Israeli tie being cut, let alone a collaboration with its genocidal military,” said Mila Halgren, a postdoctoral associate at MIT. “Student action is not meaningless.” MIT has come under internal and public scrutiny for conducting research on warfare technology sponsored by Israel. In July, the United Nations condemned the school for conducting “weapons and surveillance research funded by the Israeli ministry of defense — the only foreign military financing research at the institute.” That research included projects on drone swarm control — technology which the Israeli military has used during its siege on Gaza — pursuit algorithms, and underwater surveillance. Markus Buehler, a professor in the civil engineering department, withdrew the grant earlier this summer shortly after a student pro-Palestine group publicized it on Instagram. “This concession shows that student campaigns do have an influence,” Halgren said. “It also shows that these ties cannot survive transparency and public awareness. Student action is not meaningless; despite increased repression, it is more important than ever to resist genocide.” MIT has said its proposals are not confidential and that it does not allow funders to make them secret. As students have drawn public attention to the school’s history of developing war technology for Israel, however, the school has made that information opaque, Halgren said. Students used the school’s internal grant database to identify new contracts with the Israeli Ministry of Defense earlier this year and published a report on more than $3.7 million the Israeli military spent on warfare and surveillance research. After the student report was published, the school added new restrictions on access to the data. In July, students found a loophole and identified more contracts sponsored by the Israeli military, including Buehler’s. The school responded by adding further restrictions to the database and a warning that unauthorized access could result in disciplinary action. Last month, school police issued a criminal trespass order to a lecturer and former student, citing unauthorized data access in July and August."
       ]
     },
     {
-      "slug": "manufacturing-trends",
-      "title": "Revolutionizing manufacturing: emerging trends shaping the industry",
-      "date": "2025-01-25",
+      "slug": "data-shows-political-violence",
+      "title": "The Data Shows Political Violence Is Actually Down",
+      "date": "2025-09-17",
       "category": "World News",
-      "image": "/assets/images/news/news.jpg",
+      "image": "/assets/images/politics/data.webp",
       "content": [
-        "Intro paragraph about IoT transforming daily life...",
-        "Second paragraph with more detail..."
+        "After Charlie Kirk’s assassination, everyone was handwaving about rising political violence. But is it?",
+        "It would be easy to believe America is tipping into an era of rampant political bloodshed. In the wake of Charlie Kirk’s assassination, voices from across the spectrum sounded alarms that the shooting was just the latest flashpoint in a rising tide of violence. Progressive commentator Hasan Piker, shaken after watching video of Kirk’s murder, warned his audience of “people looking for decentralized forms of violence.” A Reuters analysis was even more blunt, declaring Kirk’s killing “a watershed moment in a surge of U.S. political violence.” Even Utah’s Republican governor mused whether this marked “the beginning of a darker chapter in our history.” These aren’t the first calls for open strife. When Donald Trump himself was shot last year, some right-wing figures rushed to declare it the opening salvo of a new civil war. Are we on the brink of another 1960s-style season of political assassinations and unrest? A funny thing is happening beneath the apocalyptic headlines: Rather than surging, key indicators of political violence and extremism in the U.S. have actually been trending downward in recent months. New findings from the Armed Conflict Location & Event Data Project, or ACLED, show that protest and extremist activity has dropped significantly nationwide. In August, the number of public demonstrations in the U.S. plummeted by nearly 40 percent compared to the month before. A much-hyped progressive day of action called “Rage Against the Regime” fizzled with only modest turnouts, contributing to the sharp decline in protests. And, perhaps most tellingly, organized extremist incidents — rallies, hate marches, militant group meet-ups — fell off a cliff. ACLED reports that extremist group activity dropped by over one-third in August, hitting its lowest level in more than five years. It’s part of a steady decline in far-right mobilization that dates back to 2023. In other words, according to ACLED, by the time commentators were warning that Kirk’s murder heralded a new wave of violence, extremist activism on the ground was at a multiyear low. The contrast between the panic-stricken narrative and ACLED’s hard numbers is striking. Yes, politically motivated attacks still occur and can be horrific. Yet the broader trend in extremist mobilization suggests less organized violence, not more. ACLED’s data-driven analysis notes multiple factors behind the slump. There are possibly more clandestine tactics by groups. Leadership failures could account for a lack of organization. And a big one: There is a loss of “urgency” among extremist followers because they see their views reflected in mainstream politics. It turns out that when your side is already winning, you don’t need to storm the barricades. Even Princeton’s Bridging Divides Initiative, which closely monitors political violence across the country, acknowledges that incidents remained relatively low in 2024. Their analysis, grounded in real-time event tracking, confirms that, while we’ve seen marked upticks in threats recently, the overall trend in political violence has declined since the peak years around 2020."
       ]
     }
   ]

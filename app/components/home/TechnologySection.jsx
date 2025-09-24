@@ -35,7 +35,7 @@ export default function TechnologySection() {
                 {/* Item 1 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/smart-homes-revolution"
+                    href="/news/technology/goolge-security-handed-ice"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -63,7 +63,7 @@ export default function TechnologySection() {
                 {/* Item 2 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/future-of-5g"
+                    href="/news/technology/proton-mail-suspended"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -91,7 +91,7 @@ export default function TechnologySection() {
                 {/* Item 3 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/cybersecurity-at-risk"
+                    href="/news/technology/boder-patrol-wants-advanced-ai"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -119,7 +119,7 @@ export default function TechnologySection() {
                 {/* Item 4 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/immersive-tech"
+                    href="/news/technology/grok-is-the-latest"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -153,7 +153,7 @@ export default function TechnologySection() {
               <div className="ftn-list w-dyn-items" role="list">
                 <div className="ftn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/future-focused-tech-trends"
+                    href="/news/technology/microsoft-says-censoring"
                     className="ftn-link w-inline-block"
                   >
                     <img
