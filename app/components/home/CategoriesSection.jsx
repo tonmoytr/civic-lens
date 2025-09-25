@@ -1,5 +1,4 @@
-
-export default function CategoriesGrid() {
+export default function CategoriesSection() {
   return (
     <div>
       <div className="w-dyn-list">
@@ -63,7 +62,7 @@ export default function CategoriesGrid() {
               className="category-link w-inline-block"
             >
               <img
-                src="assets/images/politics/poli.jpg"
+                src="/assets/images/politics/poli.jpg"
                 loading="lazy"
                 alt="Category Image"
                 sizes="(max-width: 767px) 44vw, (max-width: 991px) 30vw, 18vw"

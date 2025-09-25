@@ -39,6 +39,16 @@ export default function Navbar() {
                       <div role="listitem" className="nav-link-item w-dyn-item">
                         <div className="dot"></div>
                         <Link
+                          href="/news/"
+                          className="nav-link w-inline-block"
+                        >
+                          <div className="link-text">All News</div>
+                          <div className="link-hover-text">All News</div>
+                        </Link>
+                      </div>
+                      <div role="listitem" className="nav-link-item w-dyn-item">
+                        <div className="dot"></div>
+                        <Link
                           href="/news/politics"
                           className="nav-link w-inline-block"
                         >

@@ -9,7 +9,7 @@ export default function AboutFAQ() {
       faqs: [
         {
           q: "What kind of topics does your website cover, and who is it for?",
-          a: "We cover Business, Technology, World News, Sports, Culture, and Health News — curated for a curious, general audience that values clear, reliable reporting and thoughtful analysis.",
+          a: "We cover Politics, Technology, World News, Sports and Culture, — curated for a curious, general audience that values clear, reliable reporting and thoughtful analysis.",
         },
         {
           q: "Who creates the content featured on your platform?",
@@ -145,7 +145,7 @@ export default function AboutFAQ() {
           data-duration-out="100"
         >
           {/* Tabs menu */}
-          <div className="tabs-menu w-tab-menu">
+          {/* <div className="tabs-menu w-tab-menu">
             {TABS.map((t, i) => (
               <a
                 key={t.key}
@@ -159,7 +159,7 @@ export default function AboutFAQ() {
                 <div>{t.label}</div>
               </a>
             ))}
-          </div>
+          </div> */}
 
           {/* Tab panes */}
           <div className="w-tab-content">

@@ -67,9 +67,9 @@ export default function Footer() {
                   <a className="footer-link" href="/podcast">
                     Podcast
                   </a>
-                  <a className="footer-link" href="/subscription">
+                  {/* <a className="footer-link" href="/subscription">
                     Newsletter Plans
-                  </a>
+                  </a> */}
                 </div>
               </div>
 
@@ -115,9 +115,9 @@ export default function Footer() {
                   <a className="footer-link" href="/advertise">
                     Advertise
                   </a>
-                  <a className="footer-link" href="/template-info/changelog">
+                  {/* <a className="footer-link" href="/template-info/changelog">
                     Changelog
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>

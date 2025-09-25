@@ -18,10 +18,10 @@ export default function AboutHero() {
       <div className="w-layout-blockcontainer container w-container">
         <div className="about-us-img">
           <img
-            src="https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67970f44cbc4849c830e5215_about.jpg"
+            src="/assets/images/about/meeting.jpg"
             loading="eager"
             sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, 97vw"
-            srcSet="https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67970f44cbc4849c830e5215_about-p-500.jpg 500w, https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67970f44cbc4849c830e5215_about-p-800.jpg 800w, https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67970f44cbc4849c830e5215_about-p-1080.jpg 1080w, https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67970f44cbc4849c830e5215_about-p-1600.jpg 1600w, https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67970f44cbc4849c830e5215_about-p-2000.jpg 2000w, https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67970f44cbc4849c830e5215_about.jpg 2592w"
+            
             alt="About Image"
             className="about-us-image"
           />

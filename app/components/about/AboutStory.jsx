@@ -10,7 +10,7 @@ export default function AboutStory() {
               data-w-id="bd53cf8c-89b0-b6fc-e539-1cbb3bxxxxxx"
             >
               <img
-                src="https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67971248951f938a35159642_about-us.jpg"
+                src="/assets/images/about/conference.jpg"
                 loading="lazy"
                 alt="About Image"
                 className="about-image"

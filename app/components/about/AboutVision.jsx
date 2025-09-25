@@ -19,7 +19,7 @@ export default function AboutVision() {
               className="vision-image"
               loading="lazy"
               alt="Vision Image"
-              src="https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67971cf0563f444a3e74f273_vision-01.jpg"
+              src="/assets/images/about/vis.webp"
             />
           </div>
           <div className="vision-img">
@@ -27,7 +27,7 @@ export default function AboutVision() {
               className="vision-image"
               loading="lazy"
               alt="Vision Image"
-              src="https://cdn.prod.website-files.com/67372e014977be3ffcac2486/67971cf022c1010fbebf1537_vision-02.jpg"
+              src="/assets/images/about/vis.jpg"
             />
           </div>
         </div>

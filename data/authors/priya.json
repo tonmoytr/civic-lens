@@ -1,0 +1,12 @@
+{
+  "slug": "priya",
+  "name": "Priya Patel",
+  "role": "Business & Operations Manager",
+  "image": "/assets/images/authors/business.jpg",
+  "bio": "Handles advertising, partnerships, and ensures financial stability of the agency.",
+  "socials": {
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://www.linkedin.com/"
+  },
+  "posts": []
+}

@@ -1,29 +1,29 @@
 // app/components/CategoriesGrid.jsx
 const CATEGORIES = [
   {
-    name: "Health News",
-    href: "/news-categories/health-news",
-    img: "https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67970af70fb0795053cc4296_category-thumb-05.jpg",
+    name: "Politics",
+    href: "/news/politics",
+    img: "/assets/images/politics/trump.webp",
   },
   {
     name: "World News",
-    href: "/news-categories/world-news",
-    img: "https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67970afccf5531d40f479ea0_category-thumb-04.jpg",
+    href: "/news/world-news",
+    img: "assets/images/politics/poli.jpg",
   },
   {
     name: "Sports",
-    href: "/news-categories/sports",
-    img: "https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67970b0a2bf33e1c1f2f3510_category-thumb-03.jpg",
+    href: "/news/sports",
+    img: "/assets/images/sports/ney.webp",
   },
   {
     name: "Culture",
-    href: "/news-categories/culture",
-    img: "https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67970b11d80b838cdf7c01ae_category-thumb-02.jpg",
+    href: "/news/culture",
+    img: "/assets/images/culture/1.jpg",
   },
   {
     name: "Technology",
-    href: "/news-categories/technology",
-    img: "https://cdn.prod.website-files.com/679326cff0da9589125cbf3f/67970b17710e44061d1a6d7c_category-thumb-01.jpg",
+    href: "/news/technology",
+    img: "/assets/images/tech/techh.jpg",
   },
 ];
 

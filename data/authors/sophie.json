@@ -1,0 +1,12 @@
+{
+  "slug": "sophie",
+  "name": "Sophie Lee",
+  "role": "Junior Reporter",
+  "image": "/assets/images/authors/junior-reporter.jpg",
+  "bio": "Covers local stories, community events, and assists senior reporters with research.",
+  "socials": {
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://www.linkedin.com/"
+  },
+  "posts": []
+}

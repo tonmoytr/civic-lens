@@ -1,0 +1,12 @@
+{
+  "slug": "alex",
+  "name": "Alex Johnson",
+  "role": "Editor-in-Chief",
+  "image": "/assets/images/authors/editor.jpg",
+  "bio": "Oversees editorial direction, ensures journalistic integrity, and manages the newsroom.",
+  "socials": {
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://www.linkedin.com/"
+  },
+  "posts": []
+}

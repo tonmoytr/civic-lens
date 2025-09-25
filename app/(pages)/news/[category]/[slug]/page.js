@@ -1,4 +1,6 @@
 import AdvertiseSection from "@/app/components/home/AdvertiseSection";
+import CategoriesSection from "@/app/components/home/CategoriesSection";
+import BackButton from "@/app/components/shared/BackButton";
 import Footer from "@/app/components/shared/Footer";
 import Navbar from "@/app/components/shared/Navbar";
 import { allPostsFlat, getPost } from "@/data/newes";
@@ -46,42 +48,48 @@ export default async function ArticlePage({ params }) {
   return (
     <>
       <Navbar />
-      <main className="article-page container">
-        <div className="article-wrap">
-          <figure className="article-media">
-            <img
-              src={post.image || "/images/news/placeholder-16x9.jpg"}
-              alt=""
-            />
-          </figure>
+      <div className="container">
+        <main className="article-page container">
+          <div className="article-wrap">
+            <figure className="article-media">
+              <img
+                src={post.image || "/images/news/placeholder-16x9.jpg"}
+                alt=""
+              />
+            </figure>
 
-          <h1 className="article-title">{post.title}</h1>
+            <h1 className="article-title">{post.title}</h1>
 
-          <div className="article-meta">
-            <span className="article-cat">{post.category}</span>
-            <span className="article-sep">—</span>
-            <span className="article-date">{dateLabel}</span>
+            <div className="article-meta">
+              <span className="article-cat">{post.category}</span>
+              <span className="article-sep">—</span>
+              <span className="article-date">{dateLabel}</span>
+            </div>
+
+            <section className="article-body">
+              {blocks.length ? (
+                blocks.map((para, i) => <p key={i}>{para}</p>)
+              ) : (
+                <p>
+                  Add a <code>content</code> field (string or array) to this
+                  post in your JSON.
+                </p>
+              )}
+            </section>
+
+            <div className="article-back">
+              <BackButton />
+              <Link href={`/news/${category}`}>
+                &larr; Back to {post.category}
+              </Link>
+            </div>
           </div>
-
-          <section className="article-body">
-            {blocks.length ? (
-              blocks.map((para, i) => <p key={i}>{para}</p>)
-            ) : (
-              <p>
-                Add a <code>content</code> field (string or array) to this post
-                in your JSON.
-              </p>
-            )}
-          </section>
-
-          <div className="article-back">
-            <Link href={`/news/${category}`}>
-              &larr; Back to {post.category}
-            </Link>
+          <CategoriesSection />
+          <div style={{ margin: "5% 0", paddingBottom: "1%" }}>
+            <AdvertiseSection />
           </div>
-        </div>
-        <AdvertiseSection />
-      </main>
+        </main>
+      </div>
       <Footer />
     </>
   );

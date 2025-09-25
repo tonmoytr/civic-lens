@@ -1,3 +1,4 @@
+import BackButton from "@/app/components/shared/BackButton";
 import Footer from "@/app/components/shared/Footer";
 import Navbar from "@/app/components/shared/Navbar";
 import { allPodcastSlugs, getPodcast } from "@/data/podcasts";
@@ -111,6 +112,7 @@ export default async function PodcastPage({ params }) {
 
             {/* Back */}
             <div className="podcast-back">
+              <BackButton />
               <Link href="/podcast">&larr; Back to Podcasts</Link>
             </div>
           </div>

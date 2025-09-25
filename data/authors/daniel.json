@@ -1,0 +1,12 @@
+{
+  "slug": "daniel",
+  "name": "Daniel Wright",
+  "role": "Copy Editor & Fact-Checker",
+  "image": "/assets/images/authors/copy-editor.jpg",
+  "bio": "Ensures accuracy, grammar, and clarity across all published articles.",
+  "socials": {
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://www.linkedin.com/"
+  },
+  "posts": []
+}

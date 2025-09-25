@@ -1,0 +1,12 @@
+{
+  "slug": "lily",
+  "name": "Lily Chen",
+  "role": "Social Media Manager",
+  "image": "/assets/images/authors/social-media.jpg",
+  "bio": "Manages social platforms, engages with audiences, and drives digital growth.",
+  "socials": {
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://www.linkedin.com/"
+  },
+  "posts": []
+}

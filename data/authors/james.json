@@ -1,0 +1,12 @@
+{
+  "slug": "james",
+  "name": "James Carter",
+  "role": "Web Manager",
+  "image": "/assets/images/authors/web-manager.jpg",
+  "bio": "Maintains the website, ensures performance, and supports technical needs.",
+  "socials": {
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://www.linkedin.com/"
+  },
+  "posts": []
+}
