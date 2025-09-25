@@ -1,4 +1,3 @@
-import AuthorPageTitle from "@/app/components/author/AuthorPageTitle";
 import AuthorsGrid from "@/app/components/author/AuthorsGrid";
 import AdvertiseSection from "@/app/components/home/AdvertiseSection";
 import Footer from "@/app/components/shared/Footer";
@@ -9,7 +8,7 @@ export default function AuthorPage() {
     <div>
       <Navbar />
       <main>
-        <AuthorPageTitle />
+        {/* <AuthorPageTitle /> */}
         <AuthorsGrid />
         <div style={{ margin: "7% 0" }}></div>
         <AdvertiseSection />
