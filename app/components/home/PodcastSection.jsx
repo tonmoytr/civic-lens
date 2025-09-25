@@ -35,23 +35,22 @@ export default function PodcastSection() {
               <div role="listitem" className="fp-item w-dyn-item">
                 <a
                   data-w-id="fdffe208-4d25-567e-4e73-8d4e9e5f0727"
-                  href="/podcast/conversations-beyond-borders-insights-ideas-and-inspiring-journeys"
+                  href="/podcast/trumps-cult-of-power-cancels"
                   className="fp-link w-inline-block"
                 >
                   <img
-                    src="/assets/images/podcasts/5.jpg"
+                    src="/assets/images/podcasts/trump.webp"
                     loading="lazy"
                     alt="Podcast Image"
                     sizes="(max-width: 479px) 92vw, (max-width: 991px) 95vw, 57vw"
                     className="fp-image"
                   />
                   <div className="fp-data">
-                    <div className="podcast-min">10 Minute</div>
+                    <div className="podcast-min">42 Minute</div>
                     <div>
-                      <div className="podcast-author">Marvin McKinney</div>
+                      <div className="podcast-author">Guy Hawkins</div>
                       <h3 className="fp-title">
-                        Conversations beyond borders insights, ideas and
-                        inspiring journeys
+                        Trump’s Cult of Power Cancels Free Speech
                       </h3>
                     </div>
                   </div>
@@ -68,11 +67,11 @@ export default function PodcastSection() {
                 <div role="listitem" className="podcast-item w-dyn-item">
                   <a
                     data-w-id="cf33d4b0-3f32-a188-3d4c-564004a248e7"
-                    href="/podcast/trumps-cult-of-power-cancels"
+                    href="/podcast/the-real-charlie-kirk"
                     className="podcast-link w-inline-block"
                   >
                     <img
-                      src="/assets/images/podcasts/4.jpg"
+                      src="/assets/images/podcasts/kirk.webp"
                       loading="lazy"
                       alt="Podcast Image"
                       sizes="(max-width: 767px) 92vw, (max-width: 991px) 46vw, 39vw"
@@ -80,10 +79,9 @@ export default function PodcastSection() {
                     />
                     <div className="podcast-data">
                       <div>
-                        <div className="podcast-author">Guy Hawkins</div>
+                        <div className="podcast-author">Marvin KcKinney</div>
                         <h3 className="podcast-title">
-                          Beyond the mic transformative ideas, powerful voices,
-                          endless inspiration
+                         The Real Charlie Kirk
                         </h3>
                       </div>
                     </div>
@@ -93,11 +91,11 @@ export default function PodcastSection() {
                 {/* Item 2 */}
                 <div role="listitem" className="podcast-item w-dyn-item">
                   <a
-                    href="/podcast/the-change-makers-inspiring-stories-of-transformation-and-resilience"
+                    href="/podcast/honduras-15-years-after"
                     className="podcast-link w-inline-block"
                   >
                     <img
-                      src="/assets/images/podcasts/6.jpg"
+                      src="/assets/images/podcasts/hon.webp"
                       loading="lazy"
                       alt="Podcast Image"
                       sizes="(max-width: 767px) 92vw, (max-width: 991px) 46vw, 39vw"
@@ -105,7 +103,7 @@ export default function PodcastSection() {
                     />
                     <div className="podcast-data">
                       <div>
-                        <div className="podcast-author">Kristin Watson</div>
+                        <div className="podcast-author">Ryan Grim</div>
                         <h3 className="podcast-title">
                           The change makers inspiring stories of transformation
                           and resilience

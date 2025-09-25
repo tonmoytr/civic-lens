@@ -6,7 +6,20 @@
   "bio": "Ensures accuracy, grammar, and clarity across all published articles.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "daniel@example.com",
+    "website": "https://danielwright.editor"
   },
-  "posts": []
+  "posts": [],
+  "location": "Philadelphia, USA",
+  "joined": "2019",
+  "beats": [
+    "Copy Editing",
+    "Standards",
+    "Fact-Checking"
+  ],
+  "accolades": [
+    "Copy Desk Excellence 2021",
+    "Accuracy Award 2022"
+  ]
 }

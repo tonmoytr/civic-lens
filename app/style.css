@@ -9174,3 +9174,266 @@ blockquote {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+/* ===== Author Profile (Pro) ===== */
+.authorPro {
+  padding: var(--desktop-space, 120px) 0 90px;
+}
+
+.authorPro__banner {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 28px;
+  align-items: start;
+  background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+  border: 1px solid #eee;
+  border-radius: 18px;
+  padding: 22px;
+}
+
+@media (max-width: 767px) {
+  .authorPro__banner {
+    grid-template-columns: 1fr;
+  }
+}
+
+.authorPro__avatar {
+  position: relative;
+}
+.authorPro__avatarWrap {
+  position: relative;
+  width: 100%;
+  padding-top: 120%;
+  overflow: hidden;
+  border-radius: 14px;
+  background: #f2f2f2;
+  border: 1px solid #eaeaea;
+}
+.authorPro__head {
+  padding: 6px 2px;
+}
+
+.authorPro__name {
+  margin: 0 0 4px;
+  font-size: 34px;
+  line-height: 1.15;
+  color: var(--title, #111);
+}
+.authorPro__role {
+  margin: 0 0 14px;
+  color: #5f6b7a;
+  font-size: 16px;
+}
+.authorPro__bio {
+  margin: 0 0 16px;
+  color: #343a40;
+  line-height: 1.7;
+}
+
+.authorPro__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 8px 0 2px;
+}
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid #e9ecef;
+  background: #fff;
+  color: #495057;
+  font-size: 12px;
+}
+.pill--beads {
+  background: #f6f8ff;
+  border-color: #e7eaff;
+}
+
+.authorPro__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.btn {
+  --bg: #111;
+  --fg: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  padding: 0 14px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease,
+    background-color 0.15s ease, border-color 0.15s ease;
+  will-change: transform;
+}
+.btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.06);
+}
+.btn--primary {
+  background: var(--bg, #111);
+  color: var(--fg, #fff);
+}
+.btn--ghost {
+  background: #fff;
+  color: #111;
+  border-color: #e9ecef;
+}
+.btn--subtle {
+  background: #f7f7f8;
+  color: #111;
+  border-color: #eee;
+}
+
+.authorPro__details {
+  display: grid;
+  grid-template-columns: 1.3fr 0.7fr;
+  gap: 22px;
+  margin-top: 22px;
+}
+@media (max-width: 991px) {
+  .authorPro__details {
+    grid-template-columns: 1fr;
+  }
+}
+
+.panel {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 14px;
+  padding: 18px;
+}
+.panel--subtle {
+  background: linear-gradient(180deg, #fcfcfd 0%, #ffffff 70%);
+}
+
+.panel__title {
+  margin: 0 0 12px;
+  font-size: 16px;
+  color: #1f2937;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.list__item {
+  padding: 10px 0;
+  border-top: 1px dashed #eee;
+}
+.list__item:first-child {
+  border-top: 0;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.chip {
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: #eef2ff;
+  color: #1e40af;
+  border: 1px solid #e0e7ff;
+}
+
+.numbers {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+@media (max-width: 767px) {
+  .numbers {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+.numbers__item {
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 14px;
+  text-align: center;
+}
+.numbers__val {
+  font-size: 22px;
+  font-weight: 800;
+  color: #111;
+}
+.numbers__label {
+  margin-top: 4px;
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.panel__cta {
+  display: flex;
+  justify-content: center;
+}
+.authorPro__avatarFallback {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  background: #eef2ff;
+  color: #1e40af;
+  font-weight: 800;
+  font-size: 40px;
+}
+
+.btn__ico {
+  margin-right: 8px;
+  font-size: 18px;
+  line-height: 0;
+}
+/* Active nav state (safe, minimal) */
+.nav-link.is-active .link-text {
+  font-weight: 700;
+}
+.nav-link-item[data-active="true"] .dot {
+  opacity: 1;
+  transform: scale(1.1);
+}
+/* 1) Pick your active color once */
+:root {
+  --nav-active-color: #eb6314; /* <- change this to your brand color */
+}
+
+/* 2) Color for the active link */
+.nav-link.is-active,
+.nav-link.is-active .link-text,
+.nav-link.is-active .link-hover-text,
+.nav-link[aria-current="page"],
+.nav-link[aria-current="page"] .link-text,
+.nav-link[aria-current="page"] .link-hover-text {
+  color: var(--nav-active-color);
+}
+
+/* 3) The little dot next to active item (if you want it colored too) */
+.nav-link-item[data-active="true"] .dot {
+  background-color: var(--nav-active-color);
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+/* (Optional) add an underline highlight for active */
+.nav-link.is-active::after,
+.nav-link[aria-current="page"]::after {
+  content: "";
+  display: block;
+  height: 2px;
+  background: var(--nav-active-color);
+  border-radius: 2px;
+  margin-top: 6px;
+}

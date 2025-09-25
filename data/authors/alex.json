@@ -6,7 +6,20 @@
   "bio": "Oversees editorial direction, ensures journalistic integrity, and manages the newsroom.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "alex@example.com",
+    "website": "https://alexjohnson.news"
   },
-  "posts": []
+  "posts": [],
+  "location": "New York, USA",
+  "joined": "2018",
+  "beats": [
+    "Editorial Strategy",
+    "Investigations Oversight",
+    "Ethics"
+  ],
+  "accolades": [
+    "Editor of the Year 2023",
+    "Investigative Editing Award 2022"
+  ]
 }

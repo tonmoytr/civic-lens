@@ -6,10 +6,29 @@
   "bio": "Covers global economics and policy with a focus on manufacturing and labor.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "kristin@example.com",
+    "website": "https://kristinstewart.news"
   },
   "posts": [
-    { "category": "world-news", "slug": "manufacturing-trends" },
-    { "category": "politics", "slug": "trump-idea-of-criminal" }
+    {
+      "category": "world-news",
+      "slug": "manufacturing-trends"
+    },
+    {
+      "category": "politics",
+      "slug": "trump-idea-of-criminal"
+    }
+  ],
+  "location": "New York, USA",
+  "joined": "2020",
+  "beats": [
+    "Investigations",
+    "Politics",
+    "Public Accountability"
+  ],
+  "accolades": [
+    "SABEW Finalist 2023",
+    "FOI Champion Award"
   ]
 }

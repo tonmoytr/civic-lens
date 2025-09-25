@@ -6,7 +6,19 @@
   "bio": "Handles advertising, partnerships, and ensures financial stability of the agency.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "priya@example.com",
+    "website": "https://priyapatel.biz"
   },
-  "posts": []
+  "posts": [],
+  "location": "San Francisco, USA",
+  "joined": "2020",
+  "beats": [
+    "Partnerships",
+    "Revenue",
+    "Operations"
+  ],
+  "accolades": [
+    "Top Media Partnership 2023"
+  ]
 }

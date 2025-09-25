@@ -6,10 +6,28 @@
   "bio": "Covers global economics and policy with a focus on manufacturing and labor.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "theresa@example.com",
+    "website": "https://theresagomez.media"
   },
   "posts": [
-    { "category": "world-news", "slug": "manufacturing-trends" },
-    { "category": "politics", "slug": "trump-idea-of-criminal" }
+    {
+      "category": "world-news",
+      "slug": "manufacturing-trends"
+    },
+    {
+      "category": "politics",
+      "slug": "trump-idea-of-criminal"
+    }
+  ],
+  "location": "Boston, USA",
+  "joined": "2018",
+  "beats": [
+    "Publishing",
+    "Editorial Strategy",
+    "Standards"
+  ],
+  "accolades": [
+    "Publisher of the Year 2022"
   ]
 }

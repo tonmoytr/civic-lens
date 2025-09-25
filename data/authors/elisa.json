@@ -6,10 +6,29 @@
   "bio": "Covers global economics and policy with a focus on manufacturing and labor.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "elisa@example.com",
+    "website": "https://elisamckinney.example.com"
   },
   "posts": [
-    { "category": "world-news", "slug": "manufacturing-trends" },
-    { "category": "politics", "slug": "trump-idea-of-criminal" }
+    {
+      "category": "world-news",
+      "slug": "manufacturing-trends"
+    },
+    {
+      "category": "politics",
+      "slug": "trump-idea-of-criminal"
+    }
+  ],
+  "location": "Washington, D.C., USA",
+  "joined": "2022",
+  "beats": [
+    "Economy",
+    "Policy",
+    "Manufacturing"
+  ],
+  "accolades": [
+    "Research Fellow 2023",
+    "Policy Impact Award"
   ]
 }

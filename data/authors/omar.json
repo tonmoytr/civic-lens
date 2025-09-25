@@ -6,7 +6,19 @@
   "bio": "Designs infographics, layouts, and visual content to support storytelling.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "omar@example.com",
+    "website": "https://omarkhan.design"
   },
-  "posts": []
+  "posts": [],
+  "location": "Toronto, Canada",
+  "joined": "2022",
+  "beats": [
+    "Infographics",
+    "Data Visualization",
+    "Brand Design"
+  ],
+  "accolades": [
+    "Information is Beautiful Shortlist 2023"
+  ]
 }

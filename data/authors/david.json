@@ -6,10 +6,29 @@
   "bio": "Covers global economics and policy with a focus on manufacturing and labor.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "david@example.com",
+    "website": "https://davidklein.example.com"
   },
   "posts": [
-    { "category": "world-news", "slug": "manufacturing-trends" },
-    { "category": "politics", "slug": "trump-idea-of-criminal" }
+    {
+      "category": "world-news",
+      "slug": "manufacturing-trends"
+    },
+    {
+      "category": "politics",
+      "slug": "trump-idea-of-criminal"
+    }
+  ],
+  "location": "New York, USA",
+  "joined": "2021",
+  "beats": [
+    "Economy",
+    "Policy",
+    "Labor"
+  ],
+  "accolades": [
+    "SABEW finalist 2023",
+    "Investigative series on supply chains"
   ]
 }

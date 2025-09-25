@@ -1,6 +1,7 @@
 import alex from "./alex.json";
 import daniel from "./daniel.json";
 import david from "./david.json";
+import elisa from "./elisa.json";
 import james from "./james.json";
 import kristin from "./kristin.json";
 import lily from "./lily.json";
@@ -24,6 +25,7 @@ export const authorMap = {
   [omar.slug]: omar,
   [priya.slug]: priya,
   [sophie.slug]: sophie,
+  [elisa.slug]: elisa,
 };
 
 export const allAuthorSlugs = Object.keys(authorMap);

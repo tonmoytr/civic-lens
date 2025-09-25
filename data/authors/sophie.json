@@ -6,7 +6,19 @@
   "bio": "Covers local stories, community events, and assists senior reporters with research.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "sophie@example.com",
+    "website": "https://sophielee.news"
   },
-  "posts": []
+  "posts": [],
+  "location": "Seattle, USA",
+  "joined": "2024",
+  "beats": [
+    "Community",
+    "Education",
+    "Local Government"
+  ],
+  "accolades": [
+    "Emerging Journalist 2024"
+  ]
 }

@@ -6,7 +6,19 @@
   "bio": "Captures compelling images and videos that bring stories to life.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "nina@example.com",
+    "website": "https://ninaalvarez.photos"
   },
-  "posts": []
+  "posts": [],
+  "location": "Miami, USA",
+  "joined": "2019",
+  "beats": [
+    "Photo Essays",
+    "Breaking News",
+    "Features"
+  ],
+  "accolades": [
+    "NPPA Best of Photojournalism 2021"
+  ]
 }

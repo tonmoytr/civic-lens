@@ -1,6 +1,28 @@
+// app/_components/ContactFormSection.jsx
 "use client";
 
+import { useState } from "react";
+
 export default function ContactFormSection() {
+  const [phone, setPhone] = useState("");
+
+  const onPhoneChange = (e) => {
+    // keep ONLY digits
+    const digits = e.target.value.replace(/[^\d]/g, "");
+    setPhone(digits);
+  };
+
+  const onSubmit = (e) => {
+    e.preventDefault();
+    // If you want an extra JS guard (browser already validates pattern):
+    if (!/^[0-9]{7,15}$/.test(phone)) {
+      alert("Please enter a valid phone number (7–15 digits).");
+      return;
+    }
+    // ...send your payload
+    console.log("Submitting form with phone:", phone);
+  };
+
   return (
     <section className="contact">
       <div className="container">
@@ -15,7 +37,7 @@ export default function ContactFormSection() {
               </p>
             </div>
 
-            <form className="contact-form" onSubmit={(e) => e.preventDefault()}>
+            <form className="contact-form" onSubmit={onSubmit}>
               {/* grid of inputs */}
               <div className="field-wrap">
                 <div className="field">
@@ -28,6 +50,7 @@ export default function ContactFormSection() {
                     className="input"
                     placeholder="Your full name"
                     required
+                    autoComplete="name"
                   />
                 </div>
 
@@ -41,6 +64,7 @@ export default function ContactFormSection() {
                     className="input email"
                     placeholder="name@email.com"
                     required
+                    autoComplete="email"
                   />
                 </div>
 
@@ -52,7 +76,17 @@ export default function ContactFormSection() {
                     id="phone"
                     type="tel"
                     className="input phone"
-                    placeholder="+1 (555) 000-0000"
+                    placeholder="e.g., 017XXXXXXXX"
+                    value={phone}
+                    onChange={onPhoneChange}
+                    // mobile keypad + a11y
+                    inputMode="numeric"
+                    autoComplete="tel"
+                    // browser validation (digits only, 7–15)
+                    pattern="[0-9]{7,15}"
+                    title="Enter 7–15 digits"
+                    required
+                    maxLength={15}
                   />
                 </div>
 
@@ -101,7 +135,6 @@ export default function ContactFormSection() {
 
           {/* RIGHT: image */}
           <figure className="contact-img">
-            {/* subtle overlay block is present in CSS as .on-scroll */}
             <div className="on-scroll" aria-hidden="true" />
             <img
               className="contact-image"

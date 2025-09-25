@@ -1,5 +1,6 @@
+import AboutFAQ from "@/app/components/about/AboutFAQ";
 import AuthorProfile from "@/app/components/author/AuthorProfile";
-import NewsCard from "@/app/components/news/NewsCard";
+import EditorialTeam from "@/app/components/home/EditorialTeam";
 import Footer from "@/app/components/shared/Footer";
 import Navbar from "@/app/components/shared/Navbar";
 import { allAuthorSlugs, getAuthor } from "@/data/authors";
@@ -39,24 +40,12 @@ export default async function AuthorPage({ params }) {
         <main className="author-page ">
           <div className="author-wrap">
             <AuthorProfile author={author} />
-            <section className="author-articles">
-              <h2 className="author-section-title">
-                Articles by {author.name}
-              </h2>
-              <div className="news-grid">
-                {authoredPosts.length ? (
-                  authoredPosts.map(({ post, categorySlug }) => (
-                    <NewsCard
-                      key={`${categorySlug}:${post.slug}`}
-                      post={post}
-                      categorySlug={categorySlug}
-                    />
-                  ))
-                ) : (
-                  <p className="author-empty">No articles linked yet.</p>
-                )}
-              </div>
-            </section>
+          </div>
+          <div>
+            <EditorialTeam />
+          </div>
+          <div>
+            <AboutFAQ />
           </div>
         </main>
       </div>

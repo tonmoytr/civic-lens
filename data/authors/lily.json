@@ -6,7 +6,19 @@
   "bio": "Manages social platforms, engages with audiences, and drives digital growth.",
   "socials": {
     "twitter": "https://twitter.com/",
-    "linkedin": "https://www.linkedin.com/"
+    "linkedin": "https://www.linkedin.com/",
+    "email": "lily@example.com",
+    "website": "https://lilychen.social"
   },
-  "posts": []
+  "posts": [],
+  "location": "Los Angeles, USA",
+  "joined": "2023",
+  "beats": [
+    "Audience Growth",
+    "Engagement",
+    "Social Video"
+  ],
+  "accolades": [
+    "Best Social Campaign 2024"
+  ]
 }
