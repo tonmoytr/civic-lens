@@ -76,7 +76,7 @@ export default function ContactFormSection() {
                     id="phone"
                     type="tel"
                     className="input phone"
-                    placeholder="e.g., 017XXXXXXXX"
+                    placeholder="e.g., +1 XXX- XXXXXX "
                     value={phone}
                     onChange={onPhoneChange}
                     // mobile keypad + a11y

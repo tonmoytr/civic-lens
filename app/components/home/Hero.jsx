@@ -54,7 +54,7 @@ export default function Hero() {
                 <div role="list" className="article-list w-dyn-items">
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/politics/trump-idea-of-criminal"
+                      href="/news/politics/election-commission-publishes-voter-list"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -73,8 +73,7 @@ export default function Hero() {
                         <div>Feb 10, 2025</div>
                       </div>
                       <h6 className="headline-title">
-                        Trump’s Idea of the Criminal Left Is a Fiction. A
-                        Coordinated Defense Against His Fascism Shouldn’t Be.
+                        Election Commission Publishes Voter List Update Schedule
                       </h6>
                     </a>
                   </div>
@@ -135,7 +134,7 @@ export default function Hero() {
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/politics/trump-wants-label-antifa"
+                      href="/news/politics/parliament-announces-dates-for-the-autam"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -154,8 +153,7 @@ export default function Hero() {
                         <div>Jan 27, 2025</div>
                       </div>
                       <h6 className="headline-title">
-                        Trump Wants to Label Antifa a Terror Group. His Real
-                        Target Might Be a Lot Bigger.
+                       Parliament Announces Dates for the Autumn Session
                       </h6>
                     </a>
                   </div>

@@ -9437,3 +9437,66 @@ blockquote {
   border-radius: 2px;
   margin-top: 6px;
 }
+/* 0) Force a light look for native controls inside the contact form */
+.contact,
+.contact-form,
+.contact input,
+.contact textarea,
+.contact select {
+  color-scheme: light;
+}
+
+/* 1) Base input styles (normal) */
+.contact .input,
+.contact .textarea {
+  background-color: #fff !important;
+  color: #111 !important;
+  caret-color: #111;
+  /* border: 1px solid #e5e7eb; */
+}
+
+/* 2) Focus state never turns dark */
+.contact .input:focus,
+.contact .textarea:focus {
+  background-color: #fff !important;
+  color: #111 !important;
+  outline: none;
+  border-color: #111; /* or your brand color */
+  box-shadow: 0 0 0 3px rgba(17, 17, 17, 0.06);
+}
+
+/* 3) Placeholder color (so it doesn't go white-on-white) */
+.contact .input::placeholder,
+.contact .textarea::placeholder {
+  color: #9aa0a6;
+}
+
+/* 4) Chrome/Safari autofill & dark-mode UA overrides */
+.contact input:-webkit-autofill,
+.contact input:-webkit-autofill:hover,
+.contact input:-webkit-autofill:focus,
+.contact textarea:-webkit-autofill,
+.contact select:-webkit-autofill {
+  -webkit-text-fill-color: #111 !important;
+  caret-color: #111;
+  /* Paint over the UA autofill background */
+  -webkit-box-shadow: 0 0 0px 1000px #fff inset !important;
+  box-shadow: 0 0 0px 1000px #fff inset !important;
+}
+
+/* 5) If you style "valid/filled" states, keep them light too */
+.contact .input:valid,
+.contact .input:not(:placeholder-shown),
+.contact .textarea:valid,
+.contact .textarea:not(:placeholder-shown) {
+  background-color: #fff !important;
+  color: #111 !important;
+}
+.input:focus {
+  background: #000;
+  color: #fff;
+}
+.input:not(:placeholder-shown) {
+  background: #000;
+  color: #fff;
+}
