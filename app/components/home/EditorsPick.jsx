@@ -26,12 +26,12 @@ export default function EditorsPick() {
 
                   <div role="listitem" className="editor-pick-item w-dyn-item">
                     <a
-                      href="/news/world-news/black-farmers-struggle"
+                      href="/news/world-news/seasonal-crop-outlook-support"
                       className="editor-pick-link w-inline-block"
                     >
                       <div className="sub-text">World News</div>
                       <h5 className="editor-pick-title">
-                        Black farmers struggle in face of structural racism
+                        Seasonal Crop Outlook & Support Programs Summary
                       </h5>
                     </a>
                   </div>

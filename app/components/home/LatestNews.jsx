@@ -54,7 +54,8 @@ export default function LatestNews() {
                         <div>Sept 12, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Service Provider Notes Account Review & Availability Practices
+                        Service Provider Notes Account Review & Availability
+                        Practices
                       </h5>
                     </div>
                   </a>
@@ -62,7 +63,7 @@ export default function LatestNews() {
 
                 <div className="feature-news-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/world-news/mit-professor-cancels"
+                    href="/news/world-news/university-research-office-posts-annual"
                     className="feature-news-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252afa"
                   >
@@ -82,8 +83,8 @@ export default function LatestNews() {
                         <div>Sept 23, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        MIT Professor Cancels Israeli Military Grant After
-                        Student Pressure
+                        University Research Office Posts Annual Grants &
+                        Disclosure Update
                       </h5>
                     </div>
                   </a>
@@ -113,12 +114,12 @@ export default function LatestNews() {
                     </div>
                     <div className="blog-data">
                       <div className="news-date">
-                        <div>Politics</div>
+                        <div>World News</div>
                         <div className="divider"></div>
-                        <div>Sept 17, 2025</div>
+                        <div>Sept 24, 2025</div>
                       </div>
                       <h6 className="blog-title">
-                        The Data Shows Political Violence Is Actually Down
+                        Community Safety Indicators: Quarterly Snapshot
                       </h6>
                     </div>
                   </a>
