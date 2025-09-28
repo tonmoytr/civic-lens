@@ -35,7 +35,7 @@ export default function TechnologySection() {
                 {/* Item 1 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/goolge-security-handed-ice"
+                    href="/news/technology/quarterly-transparency-account-safety"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -53,8 +53,7 @@ export default function TechnologySection() {
                         <div>Feb 10, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Google Secretly Handed ICE Data About Pro-Palestine
-                        Student Activist
+                        Quarterly Transparency & Account Safety Update
                       </h5>
                     </div>
                   </a>
@@ -63,7 +62,7 @@ export default function TechnologySection() {
                 {/* Item 2 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/proton-mail-suspended"
+                    href="/news/technology/service-provider-notes-account-review"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -81,8 +80,8 @@ export default function TechnologySection() {
                         <div>Jan 25, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Proton Mail Suspended Journalist Accounts at Request of
-                        Cybersecurity Agency
+                        Service Provider Notes Account Review & Availability
+                        Practices
                       </h5>
                     </div>
                   </a>
@@ -91,7 +90,7 @@ export default function TechnologySection() {
                 {/* Item 3 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/boder-patrol-wants-advanced-ai"
+                    href="/news/technology/public-safety-rnd-day-shares"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -109,8 +108,8 @@ export default function TechnologySection() {
                         <div>Jan 25, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Border Patrol Wants Advanced AI to Spy on American
-                        Cities
+                        Public Safety R&D Day Shares Sensor Reliability
+                        Priorities
                       </h5>
                     </div>
                   </a>
@@ -119,7 +118,7 @@ export default function TechnologySection() {
                 {/* Item 4 */}
                 <div className="tn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/grok-is-the-latest"
+                    href="/news/technology/chat-platform-released-safety-quality"
                     className="tn-link w-inline-block"
                   >
                     <div className="tn-img">
@@ -137,8 +136,7 @@ export default function TechnologySection() {
                         <div>Jan 25, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Grok Is the Latest in a Long Line of Chatbots to Go Full
-                        Nazi
+                        Chat Platform Releases Safety & Quality Improvements
                       </h5>
                     </div>
                   </a>
@@ -153,7 +151,7 @@ export default function TechnologySection() {
               <div className="ftn-list w-dyn-items" role="list">
                 <div className="ftn-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/microsoft-says-censoring"
+                    href="/news/technology/company-shares-email-etiquette-delivery-tips"
                     className="ftn-link w-inline-block"
                   >
                     <img
@@ -167,8 +165,7 @@ export default function TechnologySection() {
                       <div>
                         <div className="ftn-date">Jan 25, 2025</div>
                         <h3 className="ftn-title">
-                          Microsoft Says It’s Censoring Employee Emails
-                          Containing the Word “Palestine”
+                          Company Shares Email Etiquette & Delivery Tips
                         </h3>
                       </div>
                     </div>

@@ -80,7 +80,7 @@ export default function Hero() {
 
                   <div role="listitem" className="article-item w-dyn-item">
                     <a
-                      href="/news/technology/goolge-security-handed-ice"
+                      href="/news/technology/quarterly-transparency-account-safety"
                       className="article-link w-inline-block"
                     >
                       <div className="news-date">
@@ -99,8 +99,7 @@ export default function Hero() {
                         <div>Feb 10, 2025</div>
                       </div>
                       <h6 className="headline-title">
-                        Google Secretly Handed ICE Data About Pro-Palestine
-                        Student Activist
+                        Quarterly Transparency & Account Safety Update
                       </h6>
                     </a>
                   </div>

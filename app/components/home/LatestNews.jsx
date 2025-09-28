@@ -34,7 +34,7 @@ export default function LatestNews() {
               <div className="feature-news-list w-dyn-items" role="list">
                 <div className="feature-news-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/proton-mail-suspended"
+                    href="/news/technology/service-provider-notes-account-review"
                     className="feature-news-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252af8"
                   >
@@ -54,8 +54,7 @@ export default function LatestNews() {
                         <div>Sept 12, 2025</div>
                       </div>
                       <h5 className="feature-news-title">
-                        Proton Mail Suspended Journalist Accounts at Request of
-                        Cybersecurity Agency
+                        Service Provider Notes Account Review & Availability Practices
                       </h5>
                     </div>
                   </a>
@@ -127,7 +126,7 @@ export default function LatestNews() {
 
                 <div className="blog-item w-dyn-item" role="listitem">
                   <a
-                    href="/news/technology/goolge-security-handed-ice"
+                    href="/news/technology/quarterly-transparency-account-safety"
                     className="blog-link w-inline-block"
                     data-w-id="6d3093a3-322f-1fb1-6fef-327add252afe"
                   >
@@ -147,8 +146,7 @@ export default function LatestNews() {
                         <div>Sept 16, 2025</div>
                       </div>
                       <h6 className="blog-title">
-                        Google Secretly Handed ICE Data About Pro-Palestine
-                        Student Activist
+                        Quarterly Transparency & Account Safety Update
                       </h6>
                     </div>
                   </a>
