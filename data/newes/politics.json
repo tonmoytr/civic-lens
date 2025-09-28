@@ -8,7 +8,7 @@
       "title": "Election Commission Publishes Voter List Update Schedule",
       "date": "2025-09-27",
       "category": "politics",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Voter+List+Update",
+      "image": "/assets/images/politics/elect.jpg",
       "content": [
         "The national election commission released a routine timetable for updating the voter list. The circular outlines windows for new registrations, corrections to existing records, and address changes. Officials emphasized that the process is a standard administrative step taken ahead of local and national polls. Citizens who have recently moved, changed their name, or reached the eligible voting age are encouraged to review their records.",
         "Applications can be submitted at designated centers and online portals where available. Applicants should carry a valid identity document and proof of residence, and they may appoint a representative to submit forms where permitted by rules. After submission, entries undergo verification checks to prevent duplicates and ensure accuracy. The commission noted that provisional rolls will be displayed for public inspection, allowing residents to confirm details and report discrepancies. Helplines and district-level information desks will remain open during working hours, and accessibility arrangements are planned for applicants with disabilities."
@@ -19,7 +19,7 @@
       "title": "Parliament Announces Dates for the Autumn Session",
       "date": "2025-09-26",
       "category": "politics",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Parliament+Session",
+      "image": "/assets/images/politics/par.webp",
       "content": [
         "Parliament confirmed the dates for the upcoming autumn session, which will focus on scheduled legislative business. The session is expected to consider carried-over committee reports, technical amendments to existing laws, and previously tabled routine bills. Leaders of the House and the opposition agreed on an indicative timetable for question periods and debates.",
         "According to the Secretariat, committees will present status updates on oversight work completed during the recess. Clerks reminded members that draft texts should be lodged within the standard notice periods, and that explanatory memoranda should include regulatory impact summaries. Visitors may attend from the public gallery subject to seating and security procedures. Live streams will remain available on the parliamentary website to support remote viewing and archival access."
@@ -30,18 +30,18 @@
       "title": "Government Confirms October Public Holiday Calendar",
       "date": "2025-09-25",
       "category": "politics",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Public+Holiday+Update",
+      "image": "/assets/images/politics/cal.jpg",
       "content": [
         "The Cabinet Division issued a reminder of the public holidays scheduled for October. Agencies delivering essential services—such as health, utilities, transport control, and emergency response—will operate duty rosters to ensure continuity. The notice reiterates that certain administrative deadlines that fall on holidays will automatically roll to the next working day.",
         "Citizens planning travel are advised to review opening hours for passport offices, banks, and municipal counters. Public transport operators indicated that additional services may be arranged near peak travel dates, subject to demand. Information hotlines will remain active for queries about service availability, and official social channels will post updates if schedules change due to weather or operational requirements."
       ]
     },
     {
-      "slug": "civil-service-shares=temporary-office",
+      "slug": "civil-service-shares-temporary-office",
       "title": "Civil Service Shares Temporary Office Hours for Festive Season",
       "date": "2025-09-24",
       "category": "politics",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Office+Hours+Notice",
+      "image": "/assets/images/politics/festive.jpeg",
       "content": [
         "A circular from the Public Administration Ministry set temporary office hours for agencies that manage high-volume public counters during the festive season. The measure aims to distribute foot traffic more evenly and reduce queue times ahead of anticipated demand. Key services—such as birth and death registrations, licensing, and utility bill processing—will maintain minimal counters on select days.",
         "The circular clarifies that appointment bookings made before the change remain valid. Members of the public can reschedule without penalty if the revised hours conflict with existing plans. Digital channels will continue to accept applications at all hours, and service centers will display notices at entrances with QR codes linking to updated schedules. Feedback collected during the period will inform future service planning."
@@ -52,7 +52,7 @@
       "title": "Statistics Bureau Releases Preliminary Census Summary",
       "date": "2025-09-23",
       "category": "politics",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Census+Summary",
+      "image": "/assets/images/politics/bur.jpeg",
       "content": [
         "The national statistics bureau published a preliminary summary from the recent census round. The release provides headline figures, a high-level methodology overview, and notes on data validation steps still underway. Officials described the publication as an interim reference intended to support planning by agencies and researchers.",
         "Detailed tables and disaggregations will follow after standard quality checks are complete. The bureau invited feedback on the layout of key indicators to improve usability in the final compendium. An accompanying technical note lists definitions, sampling frames for follow-up surveys, and contact points for data queries. Workshops will be scheduled to help local governments interpret indicators relevant to service delivery and infrastructure planning."

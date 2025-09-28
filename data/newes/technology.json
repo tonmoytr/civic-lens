@@ -8,7 +8,7 @@
       "title": "Quarterly Transparency & Account Safety Update",
       "date": "2025-09-27",
       "category": "Technology",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Account+Transparency+Update",
+      "image": "/assets/images/tech/acc.jpg",
       "content": [
         "A major email and cloud services provider published its routine transparency summary alongside a refreshed guide to account safety. The update explains, in broad terms, how service teams respond to lawful data requests, what categories of information a request may cover, and the internal checks designed to confirm legal validity before any disclosure. The document also describes standard timelines for notifying users when policy allows and reiterates that product teams regularly review processes to reduce handling errors and enhance auditability. In addition to the policy notes, customers received an updated checklist for everyday security hygiene, including stronger sign‑in protections, recovery information verification, and guidance on recognizing unusual sign‑in prompts. The provider advises enabling multi‑factor authentication on all accounts.",
         "For administrators, the summary details optional features that offer greater visibility, such as immutable audit logs, per‑application tokens, and event exports. Administrators are encouraged to periodically review access by third‑party apps, revoke legacy connections, and rotate credentials. A short FAQ clarifies distinctions between warrants, court orders, and administrative requests, and outlines how requests are logged and reviewed by specialized teams. The company notes that documentation is updated on a regular cadence so organizations can incorporate the latest practices into internal playbooks and user training. Customers who operate in regulated industries are directed to a standard reference pack with compliance mappings and sample policy language for internal use."
@@ -19,7 +19,7 @@
       "title": "Service Provider Notes Account Review & Availability Practices",
       "date": "2025-09-26",
       "category": "Technology",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Service+Availability+Note",
+      "image": "/assets/images/tech/isp.jpg",
       "content": [
         "An encrypted email provider shared a service note explaining its account review and availability practices. According to the note, automated systems occasionally flag unusual activity for manual checks, a routine step intended to protect users and reduce downstream abuse. Most reviews complete quickly and do not affect access; in cases where a temporary hold is necessary, the provider indicates that users receive status updates through the help portal. The company reiterates that it does not read user messages and that its policies focus on platform integrity, spam mitigation, and recovery safeguards.",
         "The provider outlined common steps users can take to minimize interruption: maintain up‑to‑date recovery methods, enable two‑factor authentication, and verify domain settings where applicable. A refreshed help article also summarizes how scheduled maintenance is announced, how service level targets are measured, and how customers can subscribe to real‑time status alerts. For newsroom and NGO users, the guide aggregates links to security fundamentals, incident reporting forms, and contact options for urgent cases involving account access or suspected compromise. The document emphasizes that these measures are standard across the industry and are periodically adjusted based on telemetry and user feedback."
@@ -30,7 +30,7 @@
       "title": "Public Safety R&D Day Shares Sensor Reliability Priorities",
       "date": "2025-09-25",
       "category": "Technology",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=R%26D+Sensor+Day",
+      "image": "/assets/images/tech/safety.png",
       "content": [
         "A publicly posted research and development briefing summarized priorities for improving sensor reliability, communications resiliency, and interoperability in field environments. The document, intended for vendors and academic partners, highlights non‑operational research areas such as false‑positive reduction, power management for remote deployments, and standardized data formats to simplify multi‑vendor integration. The briefing describes open testing events where prototypes are evaluated against weather, dust, and vibration conditions, with results later shared in technical reports.",
         "Organizers encouraged participants to focus on human‑factors considerations, including operator workload, clear alerting, and privacy‑by‑design documentation. A section on benchmarking recommends publishing reproducible test plans so performance claims can be compared across trials. The briefing’s appendix links to publicly available datasets and synthetic data generators commonly used for algorithm validation. The summary concludes with contact points for collaboration and notes that timelines and topics are refreshed each year to reflect lessons learned."
@@ -41,7 +41,7 @@
       "title": "Chat Platform Releases Safety & Quality Improvements",
       "date": "2025-09-24",
       "category": "Technology",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Chat+Platform+Update",
+      "image": "/assets/images/tech/chat.jpg",
       "content": [
         "A general‑purpose chat platform listed incremental updates aimed at improving safety and quality of service. Release notes describe expanded rate‑limit protections, clearer user prompts when content policies are triggered, and improved feedback tools that allow users to report problematic outputs. The update also refines system instructions to reduce repetitive or off‑topic responses and adjusts evaluation datasets used during quality checks. The provider states that these changes are part of an ongoing process to make assistance more reliable and less sensitive to ambiguous phrasing.",
         "For developers, the notes outline versioned settings so applications can lock to stable behavior while testing new features in a controlled environment. A separate section provides examples of transparent error messages, including suggested recovery steps when an action cannot be completed. The platform encourages users to consult the safety center for best‑practice templates covering disclosure, age‑appropriate experiences, and misuse reporting channels. A monthly digest will continue to summarize measurable impacts from each release, such as decreased block rates for benign inputs and faster response times on common tasks."
@@ -52,7 +52,7 @@
       "title": "Company Shares Email Etiquette & Delivery Tips",
       "date": "2025-09-23",
       "category": "Technology",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Email+Delivery+Tips",
+      "image": "/assets/images/tech/email.png",
       "content": [
         "A workplace communications guide reminded employees about email etiquette and delivery safeguards. The guide recommends concise subject lines, clear recipient selection, and avoiding large broadcast emails unless a distribution list is maintained for that purpose. Users are encouraged to rely on dedicated forums or collaboration spaces for wide updates, reserving email for targeted messages and action items. The document reiterates routine safeguards such as link previews, attachment scanning, and notifications when an external recipient is added to a thread.",
         "A troubleshooting section lists common reasons messages may be delayed or quarantined, such as malformed addresses, unusual sending patterns, or misconfigured mail rules. Employees can review a message’s headers to determine the path it took and consult the status dashboard for any ongoing service advisories. The guide closes with a short checklist for respectful communication and pointers to accessibility resources, including plain‑language guidance and alternative text for images. Managers are encouraged to share the checklist with new team members during onboarding."

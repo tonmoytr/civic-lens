@@ -4,35 +4,35 @@
 
 export const podcasts = [
   {
-    slug: "trumps-cult-of-power-cancels",
-    title: "Trump’s Cult of Power Cancels Free Speech",
-    authorName: "Guy Hawkins",
-    authorSlug: "guy-hawkins", // link to your /news-author/[slug]
-    image: "/assets/images/podcasts/trump.webp",
-    date: "2025-02-04",
-    duration: "42:10",
-    audioSrc: "/audio/beyond-the-mic.mp3", // optional (put file in /public/audio)
+    slug: "civic-briefing-voter-list-update",
+    title: "Civic Briefing: Voter List Update and Registration Window",
+    authorName: "Kristin Stewart",
+    authorSlug: "kristin",
+    image: "/assets/images/podcasts/civic.jpg",
+    date: "2025-09-26",
+    duration: "29:12",
+    audioSrc: "/audio/civic-briefing-voter-list.mp3",
     description:
-      "Adam Johnson of “Citations Needed” on the White House’s weaponization of Kirk’s death and the broader rightward tilt of the media.",
+      "A clear, step-by-step explainer on the routine voter list update: who should apply, what to bring, and how the verification timetable works.",
     content: [
-      "In the wake of Charlie Kirk’s death, conservatives have moved quickly to consolidate power and attack their political enemies, whose relative impotence and penchant for capitulation to power and decorum have been on full display this week.\n\n“You have these right-wing forces that smell blood, they smell weakness, and they’re going after everyone who doesn’t comply and run through the obligatory kind of mourning,” said Adam H. Johnson, a media analyst and co-host of the “Citations Needed” podcast.\n\nThis week on The Intercept Briefing, host Jessica Washington speaks with Johnson about the White House’s weaponization of Kirk’s death and the broader rightward tilt of the media ecosystem.\n\n“I think what they’re doing in part [is] to make it very, very difficult for Democrats to ever beat Republicans.",
-      "Jessica Washington: Welcome to The Intercept Briefing, I’m Jessica Washington. The war on free speech continues in the wake of Charlie’s Kirk’s killing. On Wednesday, ABC announced that it was taking Jimmy Kimmel’s late night show off the air indefinitely because of comments he made about the MAGA movement politicizing the death. The move came after the FCC Commission Chair threatened ABC and its parent company, Disney.This was just the latest domino to fall as the Trump administration works to punish critics and silence the left more broadly.Earlier in the week, in a broadcast of the Charlie Kirk Show from the White House and hosted by Vice President JD Vance, White House Chief of Staff, Stephen Miller, vowed vengeance for Kirk, painting anyone who dares to criticize the administration or the right as criminals and terrorists.",
+      "In this neutral explainer, we walk through the election commission’s routine voter list update and why it happens on a regular cadence ahead of local and national polls. If you recently changed addresses, corrected your legal name, or reached voting age, this is the administrative window built for you. We outline where to find official notices, how to confirm your ward or precinct, and what the standard forms typically ask for. You’ll also hear a simple checklist—valid identity document, proof of residence where applicable, and a recent photograph—so you can arrive prepared whether you submit at a designated counter or through the online intake portal used in many districts. To reduce last-minute lines, we include practical timing tips (mornings are usually quieter), accessibility notes for applicants with mobility needs, and reminders about how to request assistance if you are unable to attend in person. The goal is straightforward: get your information accurate and current so polling-day logistics are smooth.",
+      "We then cover what happens after you apply. Entries are checked to prevent duplicates, provisional rolls are displayed for public inspection, and there is a short window to flag any discrepancies—common examples include misspelled names, outdated addresses, or date-of-birth typos. We explain how to track application status, what a ‘query for clarification’ notice means, and when you might be asked for supporting documents. For communities with high seasonal movement, we share tips on keeping a copy of your submission receipt and using helpline numbers or district information desks for quick follow-ups. Finally, we point to the commission’s published calendar so you can see when provisional and final lists are targeted for release, along with where to find official FAQs, downloadable forms, and ward maps. No endorsements, no analysis—just clear civic information you can use today.",
     ],
   },
   {
-    slug: "the-real-charlie-kirk",
-    title: "The Real Charlie Kirk",
+    slug: "public-services-autumn-hours",
+    title: "Public Services: Autumn Hours, Travel & Routine Maintenance",
     authorName: "Marvin McKinney",
     authorSlug: "marvin-mckinney",
-    image: "/assets/images/podcasts/kirk.webp",
-    date: "2025-09-12",
-    duration: "38:22",
-    audioSrc: "",
+    image: "/assets/images/podcasts/service.png",
+    date: "2025-09-25",
+    duration: "34:05",
+    audioSrc: "/audio/public-services-autumn.mp3",
     description:
-      "Akela Lacy, Natasha Lennard, and Ali Breland on the weaponization of Kirk’s murder and increasing political violence.",
+      "Your seasonal guide to office hours, service counters, and travel planning—what’s open, what’s limited, and how to avoid peak queues.",
     content: [
-      "After the fatal shooting of right-wing personality Charlie Kirk on Wednesday afternoon, the rhetoric on the right quickly escalated. Influential voices on social media declared war on the left, despite the absence of any knowledge about the suspect or their motive at the time. President Donald Trump made a formal address where he pledged to go after the “radical left.” We are seeing language weaponized so swiftly,” says Intercept columnist Natasha Lennard. ",
-      "“I think the Trump administration has a clear track record at this point of taking these little chips that they can leverage to induce state repression and encroach on civil liberties,” says Ali Breland, a staff writer at The Atlantic.This week on The Intercept Briefing, host Akela Lacy speaks to Lennard and Breland about the implications of Kirk’s killing and how we think about political violence in the U.S. “We already know that whoever it does turn out to be, we are living in a moment with an authoritarian government that will weaponize this moment either way,” says Lennard. “This is about finding any opportunity to further escalate the white nationalist project.”“I worry that his assassination is a progression toward something darker in which a wider group of people are considered to be targets for political violence,” says Breland. “And I don’t think that the rhetoric that’s coming out right now is doing anything to stop it or off-ramp us on this dark path.”Listen to the full conversation of The Intercept Briefing on Apple Podcasts, Spotify, or wherever you listen. ",
+      "This service-first episode compiles neutral, practical updates for the early-autumn period: temporary office hours at high-traffic counters, standard travel tips for long-weekends, and where to check the latest advisories before you head out. We summarize the kinds of services that typically keep minimal desks open—vital records, licensing, and utility billing—and how appointment confirmations are honored if hours change. You’ll hear pointers for using official portals to reschedule without penalties, plus a quick walkthrough of common online workflows (creating an account, uploading documents, and receiving SMS/email confirmations). For travelers, we highlight how airports and intercity rail publish maintenance windows, why arriving a little earlier on the first week of the month reduces stress, and how status dashboards and SMS alerts can save a wasted trip.",
+      "We also include a brief, evergreen checklist: carry a valid ID when picking up documents, keep digital copies of receipts, and verify counter locations because some agencies move to consolidated service centers during seasonal periods. If you’re driving, we note how to find planned road works, detours, and municipal parking rules that shift around public holidays. To round things out, we link to accessibility resources (step-free access maps, priority ticketing information, and contact lines), plus reminders on what to do if systems are undergoing routine maintenance—typically, try later or use alternate channels. The emphasis is practical and non-partisan: clear hours, clear steps, and clear places to look for live updates so you can plan with confidence.",
     ],
   },
   {
@@ -54,8 +54,7 @@ export const podcasts = [
   },
   {
     slug: "the-night-that-wont-end",
-    title:
-      "The Night That Won’t End in Gaza",
+    title: "The Night That Won’t End in Gaza",
     authorName: "Jose Olivarses",
     authorSlug: "jose-olivarses",
     image: "/assets/images/podcasts/gaza.webp",

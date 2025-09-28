@@ -115,6 +115,12 @@ export default function Footer() {
                   <a className="footer-link" href="/advertise">
                     Advertise
                   </a>
+                  <a className="footer-link" href="/terms">
+                    Terms & Conditions
+                  </a>
+                  <a className="footer-link" href="/privacy">
+                    Privacy Policy
+                  </a>
                   {/* <a className="footer-link" href="/template-info/changelog">
                     Changelog
                   </a> */}

@@ -43,7 +43,7 @@ export default function TechnologySection() {
                         className="tn-image"
                         loading="lazy"
                         alt="News Image"
-                        src="/assets/images/tech/3.webp"
+                        src="/assets/images/tech/acc.jpg"
                       />
                     </div>
                     <div className="tn-data">
@@ -70,7 +70,7 @@ export default function TechnologySection() {
                         className="tn-image"
                         loading="lazy"
                         alt="News Image"
-                        src="/assets/images/tech/4.webp"
+                        src="/assets/images/tech/isp.jpg"
                       />
                     </div>
                     <div className="tn-data">
@@ -98,7 +98,7 @@ export default function TechnologySection() {
                         className="tn-image"
                         loading="lazy"
                         alt="News Image"
-                        src="/assets/images/tech/5.webp"
+                        src="/assets/images/tech/safety.png"
                       />
                     </div>
                     <div className="tn-data">
@@ -126,7 +126,7 @@ export default function TechnologySection() {
                         className="tn-image"
                         loading="lazy"
                         alt="News Image"
-                        src="/assets/images/tech/6.webp"
+                        src="/assets/images/tech/chat.jpg"
                       />
                     </div>
                     <div className="tn-data">
@@ -158,7 +158,7 @@ export default function TechnologySection() {
                       className="ftn-image"
                       loading="lazy"
                       alt="News Image"
-                      src="/assets/images/tech/7.webp"
+                      src="/assets/images/tech/email.png"
                     />
                     <div className="ftn-data">
                       <div className="author-tag">Kristin Watson</div>

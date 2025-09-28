@@ -35,11 +35,11 @@ export default function PodcastSection() {
               <div role="listitem" className="fp-item w-dyn-item">
                 <a
                   data-w-id="fdffe208-4d25-567e-4e73-8d4e9e5f0727"
-                  href="/podcast/trumps-cult-of-power-cancels"
+                  href="/podcast/civic-briefing-voter-list-update"
                   className="fp-link w-inline-block"
                 >
                   <img
-                    src="/assets/images/podcasts/trump.webp"
+                    src="/assets/images/podcasts/civic.jpg"
                     loading="lazy"
                     alt="Podcast Image"
                     sizes="(max-width: 479px) 92vw, (max-width: 991px) 95vw, 57vw"
@@ -67,11 +67,11 @@ export default function PodcastSection() {
                 <div role="listitem" className="podcast-item w-dyn-item">
                   <a
                     data-w-id="cf33d4b0-3f32-a188-3d4c-564004a248e7"
-                    href="/podcast/the-real-charlie-kirk"
+                    href="/podcast/public-services-autumn-hours"
                     className="podcast-link w-inline-block"
                   >
                     <img
-                      src="/assets/images/podcasts/kirk.webp"
+                      src="/assets/images/podcasts/service.png"
                       loading="lazy"
                       alt="Podcast Image"
                       sizes="(max-width: 767px) 92vw, (max-width: 991px) 46vw, 39vw"
@@ -80,9 +80,7 @@ export default function PodcastSection() {
                     <div className="podcast-data">
                       <div>
                         <div className="podcast-author">Marvin KcKinney</div>
-                        <h3 className="podcast-title">
-                         The Real Charlie Kirk
-                        </h3>
+                        <h3 className="podcast-title">The Real Charlie Kirk</h3>
                       </div>
                     </div>
                   </a>

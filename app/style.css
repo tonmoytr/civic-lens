@@ -9500,3 +9500,359 @@ blockquote {
   background: #000;
   color: #fff;
 }
+
+.policy-page {
+  background: var(--bg);
+  min-height: 100vh;
+}
+
+.policy-container {
+  max-width: var(--page);
+  margin: 0 auto;
+  padding: 28px 16px;
+}
+
+.policy-hero {
+  background: linear-gradient(180deg, #f4f6fb 0%, #ffffff 80%);
+  border-bottom: 1px solid var(--line);
+}
+.policy-kicker {
+  margin: 0 0 6px;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #64748b;
+  font-weight: 800;
+}
+.policy-title {
+  margin: 0;
+  font-size: clamp(34px, 5.2vw, 52px);
+  line-height: 1.05;
+  color: var(--ink);
+  letter-spacing: -0.3px;
+  font-weight: 800;
+}
+.policy-date {
+  margin: 8px 0 10px;
+  color: #64748b;
+  font-weight: 600;
+}
+.policy-intro {
+  margin: 0 0 6px;
+  color: var(--soft);
+  line-height: 1.75;
+}
+
+/* Body layout */
+.policy-body {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+@media (min-width: 1100px) {
+  .policy-body {
+    grid-template-columns: var(--toc-w) 1fr;
+    align-items: start;
+  }
+}
+
+/* TOC */
+.policy-toc {
+  position: sticky;
+  top: 20px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: var(--pad);
+}
+.policy-toc h2 {
+  margin: 0 0 10px;
+  font-size: 14px;
+  color: #0f172a;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.policy-toc ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.policy-toc a {
+  color: #111827;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1.4;
+}
+.policy-toc a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Content */
+.policy-content {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 26px;
+}
+.policy-content h2 {
+  margin: 24px 0 10px;
+  font-size: clamp(20px, 2.2vw, 26px);
+  color: var(--ink);
+  font-weight: 800;
+}
+.policy-content h3 {
+  margin: 18px 0 8px;
+  font-size: 16px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.policy-content p {
+  color: var(--soft);
+  line-height: 1.8;
+  margin: 0 0 12px;
+}
+.policy-content ul {
+  margin: 0 0 12px 20px;
+  color: var(--soft);
+}
+.policy-content li {
+  margin: 6px 0;
+}
+
+/* Callout */
+.policy-callout {
+  background: #f4f7ff;
+  border: 1px solid #e0e7ff;
+  color: #1e3a8a;
+  border-radius: 10px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+}
+
+/* Notes */
+.policy-note {
+  font-size: 14px;
+  color: #6b7280;
+}
+
+/* Links */
+.policy-content a {
+  color: var(--brand);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Mobile tweaks */
+@media (max-width: 640px) {
+  .policy-content {
+    padding: 18px;
+  }
+}
+/* --- TOC hard reset + compact style --- */
+.policy-toc ol,
+.policy-toc ul {
+  list-style: none;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.policy-toc li {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.25;
+  border: 0 !important; /* kill any global li dividers */
+}
+
+/* tight, clickable rows */
+.policy-toc a {
+  display: block;
+  padding: 6px 8px;
+  border-radius: 8px;
+  color: #111827;
+  text-decoration: none;
+}
+.policy-toc a:hover,
+.policy-toc a:focus-visible {
+  background: #f3f4f6;
+  outline: none;
+}
+
+/* subtle spacing between rows */
+.policy-toc li + li a {
+  margin-top: 6px;
+}
+
+/* if your site has a fixed navbar, make anchors land below it */
+.policy-content section {
+  scroll-margin-top: 90px;
+}
+
+/* (Optional) narrower sidebar if it feels too wide on desktop */
+@media (min-width: 1100px) {
+  :root {
+    --toc-w: 260px;
+  } /* tweak 240–300 as you like */
+}
+
+/* page + hero */
+.legal-page {
+  background: var(--bg);
+  min-height: 100vh;
+}
+.legal-container {
+  max-width: var(--page);
+  margin: 0 auto;
+  padding: 28px 16px;
+}
+.legal-hero {
+  background: linear-gradient(180deg, #f4f6fb 0%, #ffffff 80%);
+  border-bottom: 1px solid var(--line);
+}
+
+.legal-kicker {
+  margin: 0 0 6px;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #64748b;
+  font-weight: 800;
+}
+.legal-title {
+  margin: 0;
+  font-size: clamp(34px, 5.2vw, 52px);
+  line-height: 1.05;
+  color: var(--ink);
+  letter-spacing: -0.3px;
+  font-weight: 800;
+}
+.legal-date {
+  margin: 8px 0 10px;
+  color: #64748b;
+  font-weight: 600;
+}
+.legal-intro {
+  margin: 0 0 6px;
+  color: var(--soft);
+  line-height: 1.75;
+}
+
+/* body layout */
+.legal-body {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+@media (min-width: 1100px) {
+  .legal-body {
+    grid-template-columns: var(--toc-w) 1fr;
+    align-items: start;
+  }
+}
+
+/* TOC */
+.legal-toc {
+  position: sticky;
+  top: 20px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: var(--pad);
+}
+.legal-toc h2 {
+  margin: 0 0 10px;
+  font-size: 14px;
+  color: #0f172a;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.legal-toc ol,
+.legal-toc ul {
+  list-style: none;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.legal-toc li {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.25;
+  border: 0 !important;
+}
+.legal-toc a {
+  display: block;
+  padding: 6px 8px;
+  border-radius: 8px;
+  color: #111827;
+  text-decoration: none;
+}
+.legal-toc a:hover,
+.legal-toc a:focus-visible {
+  background: #f3f4f6;
+  outline: none;
+}
+.legal-toc li + li a {
+  margin-top: 6px;
+}
+
+/* content */
+.legal-content {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 26px;
+}
+.legal-content h2 {
+  margin: 24px 0 10px;
+  font-size: clamp(20px, 2.2vw, 26px);
+  color: var(--ink);
+  font-weight: 800;
+}
+.legal-content h3 {
+  margin: 18px 0 8px;
+  font-size: 16px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.legal-content p {
+  color: var(--soft);
+  line-height: 1.8;
+  margin: 0 0 12px;
+}
+.legal-content ul {
+  margin: 0 0 12px 20px;
+  color: var(--soft);
+}
+.legal-content li {
+  margin: 6px 0;
+}
+
+.legal-callout {
+  background: #fff7ed;
+  border: 1px solid #fed7aa;
+  color: #7c2d12;
+  border-radius: 10px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+}
+
+/* anchor offset for fixed navs */
+.legal-content section {
+  scroll-margin-top: 90px;
+}
+
+/* links */
+.legal-content a {
+  color: var(--brand);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* mobile */
+@media (max-width: 640px) {
+  .legal-content {
+    padding: 18px;
+  }
+}

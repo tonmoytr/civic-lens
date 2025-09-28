@@ -19,7 +19,7 @@
       "title": "Seasonal Crop Outlook & Support Programs Summary",
       "date": "2025-09-26",
       "category": "World News",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Seasonal+Crop+Outlook",
+      "image": "/assets/images/news/crop.jpg",
       "content": [
         "An international agriculture bulletin provided a neutral overview of seasonal crop conditions and support programs. The brief compiles publicly available observations on rainfall, soil moisture, and planting progress, noting that most regions remain within typical ranges for this time of year. Extension services continue to offer training on irrigation efficiency, soil testing, and post‑harvest storage to reduce loss and improve incomes for small producers.",
         "Financial cooperatives and local banks are coordinating with authorities to share information about standard credit products and risk‑management tools. A separate annex lists helplines and mobile advisory units visiting rural districts during the planting window. The bulletin emphasizes crop rotation planning, record‑keeping templates for input costs, and safety reminders for operating machinery at night during peak workloads. Upcoming editions will include comparative charts based on farmer‑submitted yield data to help communities benchmark performance."
@@ -30,7 +30,7 @@
       "title": "University Research Office Posts Annual Grants & Disclosure Update",
       "date": "2025-09-25",
       "category": "World News",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=University+Research+Update",
+      "image": "/assets/images/news/research.webp",
       "content": [
         "A university research office published its annual grants and disclosure dashboard. The update rolls up externally funded projects, internal seed grants, and open datasets created over the past year, with filters for department and topic area. Guidance documents remind principal investigators about conflict‑of‑interest disclosures, open‑access archiving, and research data management plans.",
         "The dashboard also consolidates training resources on ethics approvals, export controls, and publication licensing. Students and staff can subscribe to a quarterly newsletter highlighting funding calls, collaborative opportunities, and toolkits for reproducible workflows. According to the office, the release is part of a regular transparency effort to make research activities easier to find and understand for the campus community and the public."
@@ -41,7 +41,7 @@
       "title": "Community Safety Indicators: Quarterly Snapshot",
       "date": "2025-09-24",
       "category": "World News",
-      "image": "https://placehold.co/1200x630/ffffff/111111?text=Community+Safety+Snapshot",
+      "image": "/assets/images/news/com.jpg",
       "content": [
         "Public safety agencies released a routine quarterly snapshot of community safety indicators. The report tracks emergency response times, preparedness drills, and community outreach events hosted during the past quarter, with comparisons to the same period last year. Officials note that metrics remain broadly stable and encourage residents to enroll in local alert systems for weather, health, and infrastructure notices.",
         "The snapshot includes tips on assembling a basic household readiness kit, registering vulnerable family members for wellness checks, and using non‑emergency lines to reduce call congestion. A section on data methods explains how indicators are calculated and how privacy is protected when publishing aggregate statistics. Agencies plan to hold virtual Q&A sessions to help residents interpret the figures and suggest additional indicators for future editions."

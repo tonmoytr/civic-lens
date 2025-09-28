@@ -44,7 +44,7 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 767px) 46vw, (max-width: 991px) 47vw, 35vw"
-                        src="/assets/images/tech/4.webp"
+                        src="/assets/images/tech/isp.jpg"
                       />
                     </div>
                     <div className="feature-news-data">
@@ -73,7 +73,7 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 767px) 46vw, (max-width: 991px) 47vw, 35vw"
-                        src="/assets/images/politics/top.webp"
+                        src="/assets/images/news/research.webp"
                       />
                     </div>
                     <div className="feature-news-data">
@@ -109,7 +109,7 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 991px) 28vw, 23vw"
-                        src="/assets/images/politics/data.webp"
+                        src="/assets/images/news/com.jpg"
                       />
                     </div>
                     <div className="blog-data">
@@ -137,7 +137,7 @@ export default function LatestNews() {
                         loading="lazy"
                         alt="News Image"
                         sizes="(max-width: 479px) 92vw, (max-width: 991px) 28vw, 23vw"
-                        src="/assets/images/tech/3.webp"
+                        src="/assets/images/tech/acc.jpg"
                       />
                     </div>
                     <div className="blog-data">
